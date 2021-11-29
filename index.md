@@ -8,8 +8,8 @@
 
 # Our Mission
 
-A Community to make the world a better place with KQL
-Learn, share and practice the KQL language 
+- A Community to make the world a better place with KQL
+- Learn, share and practice the KQL language 
 
 Follow us on Twitter [@KqlCafe](https://twitter.com/KqlCafe)
 
