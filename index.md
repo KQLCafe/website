@@ -39,7 +39,7 @@ All times are Central european timezone
 | Date | Time |
 | January 25 |  6pm - 8pm |
 | February 22 | 6pm - 8pm |
-| March 29 | 6pm - 8pm |
+| March 22 | 6pm - 8pm |
 
 
 
