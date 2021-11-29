@@ -11,7 +11,8 @@
 - A Community to make the world a better place with KQL
 - Learn, share and practice the KQL language 
 
-Follow us on Twitter [@KqlCafe](https://twitter.com/KqlCafe)
+- Follow us on Twitter [@KqlCafe](https://twitter.com/KqlCafe)
+- Join us on Meetup [KQLCafe](https://www.meetup.com/kql-cafe)
 
 # Show hosts
 
@@ -30,6 +31,9 @@ Follow us on Twitter [@KqlCafe](https://twitter.com/KqlCafe)
 - Our KQL Guest  (To be anounced)
 - What did you do with KQL this month?
 - KQL Challenge of the month
+
+## Registration
+[Event Registration](https://www.meetup.com/kql-cafe/events/282389392/)
 
 
 #  Show Dates
