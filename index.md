@@ -23,10 +23,10 @@ Follow us on Twitter [@KqlCafe](https://twitter.com/KqlCafe)
 - Welcome , who we are , why, mission statement, what to expect
 - Logistics, explain planned agenda topics
 - Where do we KQL?
-- Learn KQl - Your Playground Options
+- Learn KQL - Your Playground Options
 - KQL Tables, how to find new things
 - Working with IOCs
-- New Features worth mentiooing
+- New Features worth mentioing
 - Our KQL Guest  (To be anounced)
 - What did you do with KQL this month?
 - KQL Challenge of the month
