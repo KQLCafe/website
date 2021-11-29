@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to KQL Cafe
 
 
 <p align="center">
@@ -6,38 +6,30 @@
 </p>
 
 
-You can use the [editor on GitHub](https://github.com/KQLCafe/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Our Mission
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A Community to make the world a better place with KQL
+Learn, share and practice the KQL language 
 
-### Markdown
+Follow us on Twitter [@KqlCafe](https://twitter.com/KqlCafe)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Show hosts
 
-```markdown
-Syntax highlighted code block
+[Gianni](https://twitter.com/castello_johnny)
+[Alex](https://twitter.com/alexverboon)
 
-# Header 1
-## Header 2
-### Header 3
+# Agenda - What to expect
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+# Upcomming Shows
 
-**Bold** and _Italic_ and `Code` text
+All times are Central european timezone
 
-[Link](url) and ![Image](src)
-```
+- January 25 6pm - 8pm 
+- February 22 6pm - 8pm 
+- March 29 6pm - 8pm
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+# Show 1 Agenda
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KQLCafe/website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
