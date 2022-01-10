@@ -28,7 +28,7 @@
 - KQL Tables, how to find new things
 - Working with IOCs
 - New Features worth mentioing
-- Our KQL Guest  (To be anounced)
+- Our KQL Guest  [@rodtrent](https://twitter.com/rodtrent)
 - What did you do with KQL this month?
 - KQL Challenge of the month
 
@@ -44,8 +44,4 @@ All times are Central european timezone
 | January 25 |  6pm - 8pm |
 | February 22 | 6pm - 8pm |
 | March 22 | 6pm - 8pm |
-
-
-
-
 
