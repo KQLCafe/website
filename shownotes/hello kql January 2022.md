@@ -5,6 +5,7 @@ Date: 25. January 2022
 Hosts:
 [Gianni](https://twitter.com/castello_johnny)
 [Alex](https://twitter.com/alexverboon)
+[Show Presentation](https://github.com/KQLCafe/website/blob/gh-pages/Presentations/KQL%20Cafe%20-%20January%202022.pdf)
 
 Guest:
 [@rodtrent](https://twitter.com/rodtrent)
@@ -88,6 +89,8 @@ Rod Trent talked with us about the importance of KQL and the impact it can make 
 
 And we're happy that Rod has made available the KQL Cafe Edition of the [Must Learn KQL Coffee Mug](https://must-learn-kql.creator-spring.com/listing/kql-cafe-edition?product=1565) that we will send to our upcomming guest speakers at the KQL Cafe show.
 
+[Presentation](https://github.com/KQLCafe/website/blob/gh-pages/Presentations/Rod%20Trend%20KQL%20is%20Life%202%20Podcast%2025012022.pdf)
+
 
 Rod Trent blog: https://aka.ms/RodsBlog 
 Must Learn KQL series: https://aka.ms/MustLearnKQL 
@@ -119,8 +122,6 @@ Rod shared these links:
 - The “merch” store:  https://cda.ms/3Dy 
 - The tie fighter KQL query:  https://cda.ms/3HD
  
-## Presentations
 
-[RodTrend](../presentations/Rod Trend KQL is Life 2 Podcast 25012022.pdf)
-[Show Presentation](../presentations/KQL Cafe - January 2022.pdf)
+
 

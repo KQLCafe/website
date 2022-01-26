@@ -1,6 +1,5 @@
 ## Welcome to KQL Cafe
 
-
 <p align="center">
     <img src="./Logo/kqlcafe.png" alt="KQL Cafe" >
 </p>
@@ -33,15 +32,18 @@
 - KQL Challenge of the month
 
 ## Registration
-[Event Registration](https://www.meetup.com/kql-cafe/events/282389392/)
+[Event Registration](https://www.meetup.com/kql-cafe/events/282389963/)
 
 
-#  Show Dates
+# Upcomming Shows
 
 All times are Central european timezone
 
-| Date | Time |
-| January 25 |  6pm - 8pm |
-| February 22 | 6pm - 8pm |
-| March 22 | 6pm - 8pm |
+| Date | Time | Registration | Show Notes |
+| February 22 | 6pm - 8pm | [Meetup](https://www.meetup.com/kql-cafe/events/282389963/) | |
+| March 22 | 6pm - 8pm | |
 
+## Past Shows
+
+| Date | Time | Registration | Show Notes |
+| January 25 |  6pm - 8pm | [Meetup](https://www.meetup.com/kql-cafe/events/282389392/) | [Hello KQL](https://
