@@ -18,16 +18,12 @@
 - [Gianni](https://twitter.com/castello_johnny)
 - [Alex](https://twitter.com/alexverboon)
 
-# Agenda Upcoming Show January 25, 2022 18:00 - 20:00 CET)
+# Agenda Upcoming Show February 22, 2022 18:00 - 20:00 CET)
 
-- Welcome , who we are , why, mission statement, what to expect
-- Logistics, explain planned agenda topics
-- Where do we KQL?
-- Learn KQL - Your Playground Options
-- KQL Tables, how to find new things
-- Working with IOCs
-- New Features worth mentioing
-- Our KQL Guest  [@rodtrent](https://twitter.com/rodtrent)
+- What's new
+- Learn KQL
+- KQL Tools
+- Our KQL Guest  [Matt Zorich](https://twitter.com/reprise_99) ***planned***
 - What did you do with KQL this month?
 - KQL Challenge of the month
 
@@ -46,4 +42,5 @@ All times are Central european timezone
 ## Past Shows
 
 | Date | Time | Registration | Show Notes |
-| January 25 |  6pm - 8pm | [Meetup](https://www.meetup.com/kql-cafe/events/282389392/) | [Hello KQL](https://
+| January 25 |  6pm - 8pm | [Meetup](https://www.meetup.com/kql-cafe/events/282389392/) | [Hello KQL](https://github.com/KQLCafe/website/blob/gh-pages/shownotes/hello%20kql%20January%202022.md)
+
