@@ -44,3 +44,7 @@ All times are Central european timezone
 | Date | Time | Registration | Show Notes |
 | January 25 |  6pm - 8pm | [Meetup](https://www.meetup.com/kql-cafe/events/282389392/) | [Hello KQL](https://github.com/KQLCafe/website/blob/gh-pages/shownotes/hello%20kql%20January%202022.md)
 
+## Community Contributions
+
+If you'd like to share query with the community, feel free to save it into the [KQL Cafe Community GitHub Repository](https://github.com/KQLCafe/kqlcafecommunity)
+
