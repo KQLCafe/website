@@ -93,11 +93,11 @@ And we're happy that Rod has made available the KQL Cafe Edition of the [Must Le
 [Presentation](https://github.com/KQLCafe/website/blob/gh-pages/Presentations/Rod%20Trend%20KQL%20is%20Life%202%20Podcast%2025012022.pdf)
 
 
-Rod Trent blog: https://aka.ms/RodsBlog 
-Must Learn KQL series: https://aka.ms/MustLearnKQL 
-GitHub: https://github.com/rod-trent 
-LinkedIn Profile: https://www.linkedin.com/in/rodtrent/ 
-Twitter: https://twitter.com/rodtrent 
+- Rod Trent blog: https://aka.ms/RodsBlog 
+- Must Learn KQL series: https://aka.ms/MustLearnKQL 
+- GitHub: https://github.com/rod-trent 
+- LinkedIn Profile: https://www.linkedin.com/in/rodtrent/ 
+- Twitter: https://twitter.com/rodtrent 
 
 
 ## What did you do with KQL this month?
