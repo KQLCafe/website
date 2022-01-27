@@ -102,7 +102,7 @@ And we're happy that Rod has made available the KQL Cafe Edition of the [Must Le
 
 ## What did you do with KQL this month?
 
-In this part of the episode we inite the community to talk about what did with KQL recently. To get things started, Alex demonstrated his query to pull Windows OS End of Service information from the Threat and Vulnerability tables in Microsoft Defender for Endpoint. 
+In this part of the episode we invite the community to talk about what they did with KQL recently. To get things started, Alex demonstrated his query to pull Windows OS End of Service information from the Threat and Vulnerability tables in Microsoft Defender for Endpoint. 
 You can find the query here: [MDE - EOS Windows versions](https://github.com/alexverboon/MDATP/blob/master/AdvancedHunting/MDE%20-%20EOS%20Windows%20versions.md)
 
 Rod shared these links:
