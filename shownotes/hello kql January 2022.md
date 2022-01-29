@@ -125,15 +125,16 @@ Feel free to submit your query prior the next show.
 To get you started, below is an example from Gianni. 
 
 ```kusto
-_GetWatchlist('Blocklists')
+let List = (externaldata(Netblock:string, Company:string, Count:int) [@"https://raw.githubusercontent.com/KustoKing/SentinelWatchlists/main/ASN-of-CloudProviders.csv"] with (ignoreFirstRecord=true, format="SCsv"));
+SigninLogs
+| where ResultType in(0, 50125, 50140, 70043, 70044)
+| evaluate ipv4_lookup(List, IPAddress, Netblock)
+| project-reorder TimeGenerated, Identity, UserPrincipalName, ClientAppUsed, AppDisplayName, IPAddress, Company, DeviceDetail 
 
-ThreatIntelligenceIndicator
-| take 10 
-
-let List = (externaldata(Netblock:string, Company:string, Count:int) 
-[@"https://raw.githubusercontent.com/KustoKing/SentinelWatchlists/main/ASN-of-CloudProviders.csv"]
- with (ignoreFirstRecord=true, format="SCsv"));
-List
+let List = (externaldata(Netblock:string, Company:string, Count:int) [@"https://raw.githubusercontent.com/KustoKing/SentinelWatchlists/main/ASN-of-CloudProviders.csv"] with (ignoreFirstRecord=true, format="SCsv"));
+OfficeActivity
+| evaluate ipv4_lookup(List, ClientIP, Netblock)
+| project-reorder TimeGenerated
 ```
 [query](https://github.com/KQLCafe/kqlcafecommunity/blob/main/Challenge%20of%20the%20Month/IOC%20Challenge%20Jan2022.kql)
 
