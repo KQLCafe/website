@@ -18,6 +18,11 @@
 - [Gianni](https://twitter.com/castello_johnny)
 - [Alex](https://twitter.com/alexverboon)
 
+## Community Contributions
+
+If you'd like to share your query with the community, feel free to save it into the [KQL Cafe Community GitHub Repository](https://github.com/KQLCafe/kqlcafecommunity)
+
+
 # Agenda Upcoming Show February 22, 2022 18:00 - 20:00 CET)
 
 - What's new
@@ -28,8 +33,8 @@
 - KQL Challenge of the month
 
 ## Registration
-[Event Registration](https://www.meetup.com/kql-cafe/events/282389963/)
-
+- [Next Event Registration](https://www.meetup.com/kql-cafe/events/282389963/)
+- [All Events](https://www.meetup.com/kql-cafe/)
 
 # Upcomming Shows
 
@@ -44,7 +49,5 @@ All times are Central european timezone
 | Date | Time | Registration | Show Notes | Video |
 | January 25 |  6pm - 8pm | [Meetup](https://www.meetup.com/kql-cafe/events/282389392/) | [Hello KQL](https://github.com/KQLCafe/website/blob/gh-pages/shownotes/hello%20kql%20January%202022.md) | [Video](https://youtu.be/hD_j2XqXc_o)
 
-## Community Contributions
 
-If you'd like to share query with the community, feel free to save it into the [KQL Cafe Community GitHub Repository](https://github.com/KQLCafe/kqlcafecommunity)
 
