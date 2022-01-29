@@ -41,8 +41,8 @@ If you'd like to share your query with the community, feel free to save it into 
 All times are Central european timezone
 
 | Date | Time | Registration | 
-| February 22 | 6pm - 8pm | [Meetup](https://www.meetup.com/kql-cafe/events/282389963/) | |
-| March 22 | 6pm - 8pm |
+| February 22 | 6pm - 8pm | [Meetup](https://www.meetup.com/kql-cafe/events/282389963/) |
+| March 22 | 6pm - 8pm | [Meetup](https://www.meetup.com/kql-cafe/events/282390054/) |
 | April | 6pm - 8pm |
 | May | 6pm - 8pm |
 | June | 6pm - 8pm |
