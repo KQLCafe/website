@@ -41,8 +41,8 @@ All times are Central european timezone
 
 ## Past Shows
 
-| Date | Time | Registration | Show Notes |
-| January 25 |  6pm - 8pm | [Meetup](https://www.meetup.com/kql-cafe/events/282389392/) | [Hello KQL](https://github.com/KQLCafe/website/blob/gh-pages/shownotes/hello%20kql%20January%202022.md)
+| Date | Time | Registration | Show Notes | Video |
+| January 25 |  6pm - 8pm | [Meetup](https://www.meetup.com/kql-cafe/events/282389392/) | [Hello KQL](https://github.com/KQLCafe/website/blob/gh-pages/shownotes/hello%20kql%20January%202022.md) | [Video](https://youtu.be/hD_j2XqXc_o)
 
 ## Community Contributions
 

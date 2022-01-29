@@ -5,11 +5,15 @@ Date: 25. January 2022
 **Hosts**
 - [Gianni](https://twitter.com/castello_johnny)
 - [Alex](https://twitter.com/alexverboon)
-- [Show Presentation](https://github.com/KQLCafe/website/blob/gh-pages/Presentations/KQL%20Cafe%20-%20January%202022.pdf)
-- [Show Recording]() comming soon!
 
 **Guest**
 - [@rodtrent](https://twitter.com/rodtrent)
+
+**Show Content**
+- [Show Presentation](https://github.com/KQLCafe/website/blob/gh-pages/Presentations/KQL%20Cafe%20-%20January%202022.pdf)
+- [Show Recording](https://youtu.be/hD_j2XqXc_o)
+
+[![Recording](https://img.youtube.com/vi/hD_j2XqXc_o/0.jpg)](https://www.youtube.com/watch?v=hD_j2XqXc_o)
 
 
 This was the very first show of the **KQL Cafe**. where we first shared our mission with the community and explained how we plan to run the show. 
