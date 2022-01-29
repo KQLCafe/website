@@ -63,7 +63,7 @@ To get you started, Gianni provided an overview on the Top 8 KQL operators
 - [take](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/takeoperator) <> [limit](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/limitoperator)
 - [join](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/joinoperator?pivots=azuredataexplorer)
 
-The sample queries used by Gianni can be found [here](<ADD-LINK>)
+The sample queries used by Gianni can be found [here](https://github.com/KQLCafe/kqlcafecommunity/blob/main/LearnKQL/KQLSamples.kql)
 
 ## KQL how to find new things
 
@@ -78,7 +78,7 @@ DeviceEvents
 
 Gianni demonstrated a KQL query where he uses the [externaldata](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/externaldata-operator?pivots=azuredataexplorer) operator to fetch ASN information from a file stored on GitHub and then uses that data to find possible matches within the AzureAD sign-in logs. 
 
-You can find the script [here](<....gianni kql script....>)
+You can find the query [here](https://github.com/KQLCafe/kqlcafecommunity/blob/main/Queries/Sentinel-ASN-SignInLogs.md)
 
 
 ## Features worth mentioning
@@ -117,6 +117,25 @@ Rod shared these links:
 
 
 ## KQL Challenge of the month
+
+For this month the KQL challenge of the month is about IOCs. Try creating a query that uses IOC data stored in a watchlist or use the external data operator and then join the data with your Sign-in logs, DeviceNetworkEvents or any other data you have in your or in the public Log Analytics workspace. 
+
+Feel free to submit your query prior the next show. 
+
+To get you started, below is an example from Gianni. 
+
+```kusto
+_GetWatchlist('Blocklists')
+
+ThreatIntelligenceIndicator
+| take 10 
+
+let List = (externaldata(Netblock:string, Company:string, Count:int) 
+[@"https://raw.githubusercontent.com/KustoKing/SentinelWatchlists/main/ASN-of-CloudProviders.csv"]
+ with (ignoreFirstRecord=true, format="SCsv"));
+List
+```
+[query](https://github.com/KQLCafe/kqlcafecommunity/blob/main/Challenge%20of%20the%20Month/IOC%20Challenge%20Jan2022.kql)
 
 
 ## References:
