@@ -18,7 +18,7 @@
 - [Gianni](https://twitter.com/castello_johnny)
 - [Alex](https://twitter.com/alexverboon)
 
-## Community Contributions
+# Community Contributions
 
 If you'd like to share your query with the community, feel free to save it into the [KQL Cafe Community GitHub Repository](https://github.com/KQLCafe/kqlcafecommunity)
 
