@@ -39,7 +39,7 @@ If you'd like to share your query with the community, feel free to save it into 
 - [Next Event Registration](https://www.meetup.com/kql-cafe/events/282389963/)
 - [All Events](https://www.meetup.com/kql-cafe/)
 
-# Upcomming Shows
+# Upcoming Shows
 
 All times are Central european timezone
 
@@ -55,8 +55,8 @@ All times are Central european timezone
 
 ## Past Shows
 
-| Date | Time | Registration | Show Notes | Video |
-| January 25 |  6pm - 8pm | [Meetup](https://www.meetup.com/kql-cafe/events/282389392/) | [Hello KQL](https://github.com/KQLCafe/website/blob/gh-pages/shownotes/hello%20kql%20January%202022.md) | [Video](https://youtu.be/hD_j2XqXc_o)
+| Date | Time | Registration | Show Notes | Video | Challenge |
+| January 25 |  6pm - 8pm | [Meetup](https://www.meetup.com/kql-cafe/events/282389392/) | [Hello KQL](https://github.com/KQLCafe/website/blob/gh-pages/shownotes/hello%20kql%20January%202022.md) | [Video](https://youtu.be/hD_j2XqXc_o) | [IOC Challenge](https://github.com/KQLCafe/kqlcafecommunity/blob/main/Challenge%20of%20the%20Month/IOC%20Challenge%20Jan2022.kql)
 
 
 
