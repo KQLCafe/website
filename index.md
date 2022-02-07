@@ -12,6 +12,7 @@
 
 - Follow us on Twitter [@KqlCafe](https://twitter.com/KqlCafe)
 - Join us on Meetup [KQLCafe](https://www.meetup.com/kql-cafe)
+- Join our group on [LinkedIn](https://www.linkedin.com/groups/14053778/)
 
 # Show hosts
 
@@ -25,8 +26,10 @@ If you'd like to share your query with the community, feel free to save it into 
 
 # Agenda Upcoming Show February 22, 2022 18:00 - 20:00 CET)
 
+- Hello again
 - What's new
-- Learn KQL
+- Working with IOCs
+- Learning KQL
 - KQL Tools
 - Our KQL Guest  [Matt Zorich](https://twitter.com/reprise_99) ***planned***
 - What did you do with KQL this month?
