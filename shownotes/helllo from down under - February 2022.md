@@ -94,23 +94,30 @@ DeviceNetworkEvents
 
 Gianni prepared the following KQL queries for identifying DNS traffic.
 
+```
 // Do we have DNS Traffic
 DeviceNetworkEvents
 | where RemotePort == 53
 | where ActionType in ("ConnectionSuccess","ConnectionFound")
+```
 
+```
 // Which servers receive DNS Traffic
 DeviceNetworkEvents
 | where RemotePort == 53
 | where ActionType in ("ConnectionSuccess","ConnectionFound")
 | summarize Total = count(), Devices = dcount(DeviceId)  by RemoteIP
+```
 
+```
 // Introducing Network Signatures
 DeviceNetworkEvents
 | where ActionType == "NetworkSignatureInspected"
 | extend AF = parse_json(AdditionalFields)
 | extend SignatureName = AF.SignatureName
+```
 
+```
 // hunting for DNS servers
 DeviceNetworkEvents
 | where ActionType == "NetworkSignatureInspected"
@@ -118,7 +125,9 @@ DeviceNetworkEvents
 | extend SignatureName = AF.SignatureName
 | where SignatureName == "DNS_Request"
 | summarize Total = count(), Servers = dcount(DeviceId) by RemoteIP
+```
 
+```
 // hunting for DNS on different ports
 let DNSPorts = dynamic([53]);
 DeviceNetworkEvents
@@ -127,7 +136,7 @@ DeviceNetworkEvents
 | extend SignatureName = AF.SignatureName
 | where SignatureName == "DNS_Request"
 | where RemotePort !in(DNSPorts)
-
+```
 
 ## KQL Tools
 
