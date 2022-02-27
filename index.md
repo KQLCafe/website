@@ -27,8 +27,8 @@ If you'd like to share your query with the community, feel free to save it into 
 
 # Agenda Upcoming Show March 22, 2022 18:00 - 20:00 CET)
 
-- Hello again
-- What's new
+- Hello
+- What's new in KQL
 - Working with IOCs
 - Learning KQL
 - KQL Tools
@@ -45,7 +45,6 @@ If you'd like to share your query with the community, feel free to save it into 
 All times are Central european timezone
 
 | Date | Time | Registration | 
-| February 22 | 6pm - 8pm | [Meetup](https://www.meetup.com/kql-cafe/events/282389963/) |
 | March 22 | 6pm - 8pm | [Meetup](https://www.meetup.com/kql-cafe/events/282390054/) |
 | April | 6pm - 8pm |
 | May | 6pm - 8pm |
@@ -58,7 +57,7 @@ All times are Central european timezone
 
 | Date | Time | Registration | Show Notes | Video | Challenge |
 | January 25 |  6pm - 8pm | [Meetup](https://www.meetup.com/kql-cafe/events/282389392/) | [Hello KQL](https://github.com/KQLCafe/website/blob/gh-pages/shownotes/hello%20kql%20January%202022.md) | [Video](https://youtu.be/hD_j2XqXc_o) | [IOC Challenge](https://github.com/KQLCafe/kqlcafecommunity/blob/main/Challenge%20of%20the%20Month/IOC%20Challenge%20Jan2022.kql)|
-| February  22 |  6pm - 8pm | [Meetup](https://www.meetup.com/nl-NL/kql-cafe/events/282389963) | TBA | TBA | [MDE KQL Challenge](https://github.com/KQLCafe/kqlcafecommunity/blob/main/Challenge%20of%20the%20Month/February%202022/Challenge.txt)|
+| February  22 |  6pm - 8pm | [Meetup](https://www.meetup.com/nl-NL/kql-cafe/events/282389963) | [Hello from Down Under](https://github.com/KQLCafe/website/blob/gh-pages/shownotes/helllo%20from%20down%20under%20-%20February%202022.md) | [Video](https://www.youtube.com/watch?v=HTCuh-tYLho) | [MDE KQL Challenge](https://github.com/KQLCafe/kqlcafecommunity/blob/main/Challenge%20of%20the%20Month/February%202022/Challenge.txt)|
 
 
 
