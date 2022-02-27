@@ -10,7 +10,7 @@
 - A Community to make the world a better place with KQL
 - Learn, share and practice the KQL language 
 
-- Follow us on Twitter [@KqlCafe](https://twitter.com/KqlCafe)
+- Follow us on Twitter [@KqlCafe](https://twitter.com/KqlCafe) and [Twitter Community](https://twitter.com/i/communities/1496809036393730050)
 - Join us on Meetup [KQLCafe](https://www.meetup.com/kql-cafe)
 - Join our group on [LinkedIn](https://www.linkedin.com/groups/14053778/)
 - Join our channel on [Discord](https://discord.gg/V4JWfycSkU)
@@ -50,8 +50,6 @@ All times are Central european timezone
 | May | 6pm - 8pm |
 | June | 6pm - 8pm |
 | July | 6pm - 8pm |
-
-
 
 ## Past Shows
 
