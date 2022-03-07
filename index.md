@@ -46,10 +46,13 @@ All times are Central european timezone
 
 | Date | Time | Registration | 
 | March 22 | 6pm - 8pm | [Meetup](https://www.meetup.com/kql-cafe/events/282390054/) |
-| April | 6pm - 8pm |
-| May | 6pm - 8pm |
-| June | 6pm - 8pm |
-| July | 6pm - 8pm |
+| April 26 | 6pm - 8pm |
+| May 31 | 6pm - 8pm |
+| June 28 | 6pm - 8pm |
+| July | Summer Break |
+| August 30 | 6pm - 8pm |
+| September 27 | 6pm - 8pm |
+
 
 ## Past Shows
 
