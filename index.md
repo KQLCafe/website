@@ -32,7 +32,7 @@ If you'd like to share your query with the community, feel free to save it into 
 - Working with IOCs
 - Learning KQL
 - KQL Tools
-- Our KQL Guest 
+- Our KQL Guest [Matthew Lowe](https://www.linkedin.com/in/matthew-lowe-13b61990/)
 - What did you do with KQL this month?
 - KQL Challenge of the month
 
