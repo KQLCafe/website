@@ -11,7 +11,7 @@ Date: 22. February 2022
 [Matt Zorich](https://twitter.com/reprise_99)
 
 **Show Content**
-- [Show Presentation]()
+- [Show Presentation](https://github.com/KQLCafe/website/blob/gh-pages/Presentations/KQL%20Cafe%20-%20February%202022.pdf)
 - [Show Recording](https://www.youtube.com/watch?v=HTCuh-tYLho)
 
 [![Recording](https://img.youtube.com/vi/HTCuh-tYLho/1.jpg)](https://www.youtube.com/watch?v=HTCuh-tYLho)
@@ -182,7 +182,7 @@ DeviceNetworkEvents
 
 This month our guest speaker is [Matt Zorich](https://twitter.com/reprise_99). Matt is well known within the KQL Commnity for his 365 days of KQL chellange he gave himself with the objective to release a KQL query every day. Matt's KQL work can be found here: https://github.com/reprise99/Sentinel-Queries
 
-During his presentation Matt walked us thorugh a number of interesting KQL queries
+During his presentation Matt walked us through a number of interesting KQL queries
 
 ```
 SigninLogs
