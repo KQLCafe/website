@@ -26,7 +26,7 @@
 If you'd like to share your query with the community, feel free to save it into the [KQL Cafe Community GitHub Repository](https://github.com/KQLCafe/kqlcafecommunity)
 
 
-# Agenda Upcoming Show April 28, 2022 18:00 - 20:00 CET)
+# Agenda Upcoming Show April 26, 2022 18:00 - 20:00 CET)
 
 - Hello
 - What's new in KQL
