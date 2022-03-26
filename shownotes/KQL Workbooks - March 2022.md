@@ -139,7 +139,7 @@ Use [Uncoder CTI](https://cti.uncoder.io/) to generate IOC queries on the fly fo
 
 ## Guest Speaker Matthew Lowe
 
-This month our guest speaker was [Matthew Lowe Zorich](https://www.linkedin.com/in/matthew-lowe-13b61990/). 
+This month our guest speaker was [Matthew Lowe](https://www.linkedin.com/in/matthew-lowe-13b61990/). 
 
 During his presentation Matthew  walked us through the following Microsoft Sentinel Workbooks:
 
