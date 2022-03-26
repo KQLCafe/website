@@ -148,7 +148,7 @@ During his presentation Matthew  walked us through the following Microsoft Senti
 
 For more information watch the KQL Cafe session video or read the following blogs on Microsoft Tech Community. 
 
-- [Get Hands-On KQL](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/)get-hands-on-kql-practice-with-this-microsoft-sentinel-workbook/ba-p/3055600
+- [Get Hands-On KQL](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/get-hands-on-kql-practice-with-this-microsoft-sentinel-workbook/ba-p/3055600)
 - [Advanced KQL Framework](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/advanced-kql-framework-workbook-empowering-you-to-become-kql/ba-p/3033766)
 
 
