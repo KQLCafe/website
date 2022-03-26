@@ -11,7 +11,7 @@ Date: 22. March 2022
 [Matthew Lowe](https://www.linkedin.com/in/matthew-lowe-13b61990/)
 
 **Show Content**
-- [Show Presentation]()
+- [Show Presentation](https://github.com/KQLCafe/website/blob/gh-pages/Presentations/KQL%20Cafe%20March%2022.pdf)
 - [Show Recording]()
 
 [![Recording](https://img.youtube.com/<link>/1.jpg)](video link)
