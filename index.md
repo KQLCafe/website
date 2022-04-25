@@ -46,7 +46,7 @@ All times are Central european timezone
 
 | Date | Time | Registration | Guest Speaker |
 | April 26 | 6pm - 8pm | [Meetup](https://www.meetup.com/kql-cafe/events/284481253/) |  [Olaf Hartong](https://twitter.com/olafhartong) |
-| May 31 | 6pm - 8pm | [Meetup](https://www.meetup.com/kql-cafe/events/285356274/) | | [Roberto Rodriguez](https://twitter.com/Cyb3rWard0g)
+| May 31 | 6pm - 8pm | [Meetup](https://www.meetup.com/kql-cafe/events/285356274/) | [Roberto Rodriguez](https://twitter.com/Cyb3rWard0g) |
 | June 28 | 6pm - 8pm |
 | July | Summer Break |
 | August 30 | 6pm - 8pm |
