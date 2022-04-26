@@ -24,14 +24,14 @@
 
 If you'd like to share your query with the community, feel free to save it into the [KQL Cafe Community GitHub Repository](https://github.com/KQLCafe/kqlcafecommunity)
 
-# Agenda Upcoming Show April 26, 2022 18:00 - 20:00 CET)
+# Agenda Upcoming Show May 31, 2022 18:00 - 20:00 CET)
 
 - Hello
 - What's new in KQL
 - Working with IOCs
 - Learning KQL
 - KQL Tools
-- Our KQL Guest [Olaf Hartong](https://twitter.com/olafhartong)
+- Our KQL Guest  [Roberto Rodriguez](https://twitter.com/Cyb3rWard0g)
 - What did you do with KQL this month?
 - KQL Challenge of the month
 
