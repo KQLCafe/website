@@ -17,22 +17,24 @@ Date: 22. April 2022
 - [Show Presentation](https://github.com/KQLCafe/website/blob/gh-pages/Presentations/KQL%20Cafe%20April%202022.pdf)
 - [![Recording](https://img.youtube.com/vi/ianz3iCsRJI/0.jpg)](https://www.youtube.com/watch?v=ianz3iCsRJI)
 
+
 Topics:
-0:00 Welcome to KQL Cafe + Poll
-What's new in KQL:
-3:16 Microsoft 365 Defender Connector
-8:31 Extend Columns Microsoft Sentinel
-Working with IOCs:
-10:18 BlackCat Ransomware IoC
-Learning KQL:
-16:18 mv-expand
-KQL Tools:
-25:06 Get PowerShell cmdlets from a PowerShell module
-Our KQL Guest:
-26:58 Olaf Hartong KQL detection times
-What did you do with KQL this month?
-1:15:05 Defender Threat and Vulnerability Management
-1:18:06 Microsoft Sentinel Connector Health
+
+- 0:00 Welcome to KQL Cafe + Poll
+- What's new in KQL:
+- 3:16 Microsoft 365 Defender Connector
+- 8:31 Extend Columns Microsoft Sentinel
+- Working with IOCs:
+- 10:18 BlackCat Ransomware IoC
+- Learning KQL:
+- 16:18 mv-expand
+- KQL Tools:
+- 25:06 Get PowerShell cmdlets from a PowerShell module
+- Our KQL Guest:
+- 26:58 Olaf Hartong KQL detection times
+- What did you do with KQL this month?
+- 1:15:05 Defender Threat and Vulnerability Management
+- 1:18:06 Microsoft Sentinel Connector Health
 
 ## Agenda
 
@@ -49,7 +51,7 @@ What did you do with KQL this month?
 
 ### Microsoft 365 Defender Connector in Microsoft Sentinel
 
-Additional tables can now be ingested from Microsoft 365 Defender Connector in Microsoft Sentinel.
+Additional tables can now be ingested the from Microsoft 365 Defender Connector into Microsoft Sentinel.
 
 - Microsoft Defender for Identity
   - IdentityLogonEvents
