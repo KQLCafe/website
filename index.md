@@ -31,7 +31,7 @@ If you'd like to share your query with the community, feel free to save it into 
 - Working with IOCs
 - Learning KQL
 - KQL Tools
-- Our KQL Guest [Roberto Rodriguez](https://twitter.com/Cyb3rWard0g)
+- Our KQL Guest [Mehmet Ergene](https://twitter.com/Cyb3rMonk)
 - What did you do with KQL this month?
 - KQL Challenge of the month
 
