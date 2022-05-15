@@ -31,7 +31,7 @@ If you'd like to share your query with the community, feel free to save it into 
 - Working with IOCs
 - Learning KQL
 - KQL Tools
-- Our KQL Guest  [Roberto Rodriguez](https://twitter.com/Cyb3rWard0g)
+- Our KQL Guest [Roberto Rodriguez](https://twitter.com/Cyb3rWard0g)
 - What did you do with KQL this month?
 - KQL Challenge of the month
 
@@ -45,8 +45,8 @@ If you'd like to share your query with the community, feel free to save it into 
 All times are Central european timezone
 
 | Date | Time | Registration | Guest Speaker |
-| May 31 | 6pm - 7:30pm | [Meetup](https://www.meetup.com/kql-cafe/events/285356274/) | [Roberto Rodriguez](https://twitter.com/Cyb3rWard0g) |
-| June 28 | 6pm - 7:30pm | [Meetup](https://www.meetup.com/kql-cafe/events/285525754/) | [Mehmet Ergene](https://twitter.com/Cyb3rMonk) |
+| May 31 | 6pm - 7:30pm | [Meetup](https://www.meetup.com/kql-cafe/events/285356274/) | [Mehmet Ergene](https://twitter.com/Cyb3rMonk) |
+| June 28 | 6pm - 7:30pm | [Meetup](https://www.meetup.com/kql-cafe/events/285525754/) | [Roberto Rodriguez](https://twitter.com/Cyb3rWard0g) |
 | July | Summer Break |
 | August 30 | 6pm - 7:30pm | [Meetup](https://www.meetup.com/kql-cafe/events/285526153/) | [Ashwin Patil](https://twitter.com/ashwinpatil)
 | September 27 | 6pm - 7:30pm |
