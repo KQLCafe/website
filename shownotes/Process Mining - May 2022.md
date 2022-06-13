@@ -10,7 +10,7 @@ Date: 31. May 2022
 
 ***Guest***
 
-- [Mehmet Ergene](https://twitter.com/Cyb3rMonk) 
+- [Mehmet Ergene](https://twitter.com/Cyb3rMonk)
 
 ***Show Content***
 
