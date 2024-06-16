@@ -1,6 +1,6 @@
 # Welcome to KQL Cafe
 
- ![](./logo/kqlcafe.png)
+ ![](./Logo/kqlcafe.png)
 
 ## Our Mission
 
