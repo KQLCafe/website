@@ -12,7 +12,7 @@
 - Join our group on [LinkedIn](https://www.linkedin.com/groups/14053778/)
 - Watch the KQL Cafe session videos on [YouTube](https://www.youtube.com/channel/UCUJwJO79TYZdnpQ9WWtzQDg/featured)
 
-[Code of Conduct](./coc)
+[Code of Conduct](./Code%20of%20Cnoduct.md)
 
 ## Show hosts
 
@@ -24,6 +24,8 @@
 If you'd like to share your query with the community, feel free to share it via [kqlsearch.com](https://www.kqlsearch.com) [Submit Query](https://www.kqlsearch.com/submit)
 
 ## Registration
+
+ ![](./Logo/meetuplogo.svg)
 
 - [All Events](https://www.meetup.com/kql-cafe/)
 
