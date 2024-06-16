@@ -1,0 +1,78 @@
+# Welcome to KQL Cafe
+
+ ![](./logo/kqlcafe.png)
+
+## Our Mission
+
+- A Community to make the world a better place with KQL
+- Learn, share and practice the KQL language
+
+- Follow us on Twitter [@KqlCafe](https://twitter.com/KqlCafe) and [Twitter Community](https://twitter.com/i/communities/1496809036393730050)
+- Join us on Meetup [KQLCafe](https://www.meetup.com/kql-cafe)
+- Join our group on [LinkedIn](https://www.linkedin.com/groups/14053778/)
+- Join our channel on [Discord](https://discord.gg/V4JWfycSkU)
+- Watch the KQL Cafe session videos on [YouTube](https://www.youtube.com/channel/UCUJwJO79TYZdnpQ9WWtzQDg/featured)
+
+[Code of Conduct](./coc)
+
+## Show hosts
+
+- [Gianni](https://twitter.com/castello_johnny)
+- [Alex](https://twitter.com/alexverboon)
+
+## Community Contributions
+
+If you'd like to share your query with the community, feel free to share it via [kqlsearch.com](https://www.kqlsearch.com) [Submit Query](https://www.kqlsearch.com/submit)
+
+## Registration
+
+- [All Events](https://www.meetup.com/kql-cafe/)
+
+## Upcoming Shows
+
+All times are Central european timezone
+
+| Date | Time | Registration | Guest Speaker |
+| ---- | ---- | ------------ | ------------- |
+| May 28 | 6pm - 7:30 pm | [Meetup](https://www.meetup.com/kql-cafe/events/298720913/) | [Nicola Suter](https://twitter.com/nicolonsky) |
+| June 25 | 6pm - 7:30 pm | [Meetup](https://www.meetup.com/kql-cafe/events/300056899/) | [Michalis Michalos](https://www.linkedin.com/in/mmihalos/) |
+
+## Past Shows
+
+### 2024
+
+| Date            | Show Notes     | Recording | Guest Speaker    |
+| --------------- | -------------- | ------------ | ------------- |
+| January 30,2024 | [January 2024](./shownotes/KQL%20Cafe%20-%20January%202024) | [YouTube](https://www.youtube.com/watch?v=42SMCTXBlAM) | [Ilana Waitser](https://www.linkedin.com/in/ilana-waitser-368b911/) and [Elyran Malka](https://www.linkedin.com/in/elyran/) |
+| Febaruary 27,2024 | [February 2024](./shownotes/KQL%20Cafe%20-%20February%202024) | [YouTube](https://youtu.be/d-Bw1OsZzMs?si=rpHFVL5--t0c0s_5) |  [Fabian Bader](https://twitter.com/fabian_bader) |
+| March 26,2024 | [March 2024](./shownotes/KQL%20Cafe%20-%20March%202024) | [Youtube](https://youtu.be/iz6UPgOjD-k?si=WmzVdjDylyJK4hSS) | [Purav Desai](https://github.com/puravspoint) |
+| April 30, 2024 | [April 2024](./shownotes/KQL%20Cafe%20-%20April%202024) | [Youtube](https://www.youtube.com/@KQLCafe) comming soon! | [Henning Rauch](https://www.linkedin.com/in/henning-rauch-adx/) |
+
+### 2023
+
+| Date | Show Notes | Recording | Guest Speaker |
+| ---- | ----------- | -------- | ---------- |
+| January 31,2023 | [January 2023](./shownotes/KQLCafe%20-%20January%202023) | [YouTube](https://youtu.be/_Gk998QVE1U) | [Rogier Dijkman](https://twitter.com/DijkmanRogier) |
+| February 28,2023 | [February 2023](./shownotes/KQLCafe%20-%20February%202023) | [YouTube](https://youtu.be/JGyyyhESsz4) | [Ugur Koc](https://twitter.com/UgurKocDe) |
+| April 4,2023 | [April 2023](./shownotes) | [YouTube](https://youtu.be/GpP-oP5O8iA) | [Alexander Sloutsky](https://www.linkedin.com/in/sloutsky/) |
+| April 25,2023 | [April 2023](./shownotes) | [YouTube](https://youtu.be/Fv0I7aa_P3k) |  [Thijs Leconte](https://twitter.com/thijslecomte) |
+| May 23 | [May 2023](./shownotes) | [YouTube](https://youtu.be/EW_UMa3jwRE) | [Clive Watson](https://www.linkedin.com/in/clive-watson/) |
+| June 27 | [June 2023](./shownotes) |  [YouTube](https://youtu.be/OgmkzDoPl6w) | Gianni & Alex |
+| September 19 | [September 2023](./shownotes/KQLCafe%20-%20September%202023) | [YouTube](https://www.youtube.com/watch?v=W-bbLQMkiVE) | [Brian Bønk](https://twitter.com/brbonk) |
+| October 31 | [October 2023](./shownotes/KQL%20Cafe%20-%20October%202023) | [YouTube](https://www.youtube.com/watch?v=00kN_7uITTI) | [Morten Knudsen](https://twitter.com/knudsenmortendk) |
+| November 28 | [November 2023](./shownotes/KQL%20Cafe%20-%20November%202023) | [YouTube](https://www.youtube.com/watch?v=gM4C4RpEDqA) | [Ugur Koc](https://twitter.com/UgurKocDe) |
+
+### 2022
+
+| Date | Show Notes | Recording |  Guest Speaker |
+| ---- | ----------- | -------- | ---------- |
+| January 25,2022 |  [Hello KQL](./shownotes/hello%20kql%20January%202022) | [YouTube](https://youtu.be/hD_j2XqXc_o) | [Rod Trent](https://twitter.com/rodtrent) |
+| February  22,2022 | [Hello from Down Under](./shownotes/helllo%20from%20down%20under%20-%20February%202022) | [YouTube](https://www.youtube.com/watch?v=HTCuh-tYLho) | [Matt Zorich](https://twitter.com/reprise_99) |
+| March 22,2022 |  [KQL Workbooks](./shownotes/KQL%20Workbooks%20-%20March%202022) | [YouTube](https://youtu.be/_EHYIRbRHeU) | [Matthew Lowe](https://www.linkedin.com/in/matthew-lowe-13b61990/) |
+| April 26, 2022 | [Detections](./shownotes/KQL%20Detections-%20April%202022) | [YouTube](https://www.youtube.com/watch?v=ianz3iCsRJI) |   [Olaf Hartong](https://twitter.com/olafhartong) |
+| May 31, 2022 |  [Scan Operator](./shownotes/KQL%20Cafe%20-%20May%202022) | [YouTube](https://www.youtube.com/watch?v=z8cFNG9ofm0)  | [Mehmet Ergene](https://twitter.com/Cyb3rMonk) |
+| June 28,2022 |  [KQL Cafe June 22](./shownotes/KQL%20Cafe%20-%20June%202022) | [YouTube](https://www.youtube.com/watch?v=igGo-XtG340) | No guest speaker |
+| August 30 |  [KQL Cafe August 29](./shownotes/KQL%20Cafe%20-%20August%202022) | [YouTube](https://www.youtube.com/watch?v=j0kUiW_Ip7A) |  [Ashwin Patil](https://twitter.com/ashwinpatil) |
+| September 27 | [KQL Cafe September 27](./shownotes/KQL%20Cafe%20September%202022) | [YouTube](https://youtu.be/cdlUasvgpg8) | [Mattias Borg](https://twitter.com/MattiasBorg82) |
+| October 25 | [KQL Cafe October 25](www.kqlcafe.com) | [YouTube](https://youtu.be/kLuiueOD9LI) | [Jan Ketil Skanke](https://twitter.com/JankeSkanke) |
+| November 29 | [KQL Cafe November 29](www.kqlcafe.com) | [YouTube](https://youtu.be/XB_VXKCS0Kk) | [BertJanCyber](https://twitter.com/BertJanCyber) |
