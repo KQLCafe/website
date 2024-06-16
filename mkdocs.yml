@@ -6,8 +6,8 @@ repo_url: https://github.com/KQLCafe/website
 
 # Left hand Navigation menu
 nav:
-  - KQL Cafe: 'kqlcafe.md'
-  - Shownotes: 'shownotes.md'
+  #- KQL Cafe: 'kqlcafe.md'
+  #- Shownotes: 'shownotes.md'
        
 
 # Configuration
