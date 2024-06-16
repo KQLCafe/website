@@ -12,4 +12,4 @@
 
 ## Guests
 
-- []() 
+ [Nicola Suter](https://twitter.com/nicolonsky) 
