@@ -1,4 +1,3 @@
-# Most settings taken from https://squidfunk.github.io/mkdocs-material/reference/admonitions/#supported-types
 site_name: "KQL Cafe"
 site_url: https://kqlcafe.github.io/website/
 repo_url: https://github.com/KQLCafe/website
