@@ -1,3 +1,5 @@
+# Code of Conduct
+
 All group members should follow
 Throughout each interaction:
 
