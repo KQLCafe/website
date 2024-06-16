@@ -10,7 +10,6 @@
 - Follow us on Twitter [@KqlCafe](https://twitter.com/KqlCafe) and [Twitter Community](https://twitter.com/i/communities/1496809036393730050)
 - Join us on Meetup [KQLCafe](https://www.meetup.com/kql-cafe)
 - Join our group on [LinkedIn](https://www.linkedin.com/groups/14053778/)
-- Join our channel on [Discord](https://discord.gg/V4JWfycSkU)
 - Watch the KQL Cafe session videos on [YouTube](https://www.youtube.com/channel/UCUJwJO79TYZdnpQ9WWtzQDg/featured)
 
 [Code of Conduct](./coc)
@@ -34,7 +33,6 @@ All times are Central european timezone
 
 | Date | Time | Registration | Guest Speaker |
 | ---- | ---- | ------------ | ------------- |
-| May 28 | 6pm - 7:30 pm | [Meetup](https://www.meetup.com/kql-cafe/events/298720913/) | [Nicola Suter](https://twitter.com/nicolonsky) |
 | June 25 | 6pm - 7:30 pm | [Meetup](https://www.meetup.com/kql-cafe/events/300056899/) | [Michalis Michalos](https://www.linkedin.com/in/mmihalos/) |
 
 ## Past Shows
@@ -46,7 +44,8 @@ All times are Central european timezone
 | January 30,2024 | [January 2024](./shownotes/KQL%20Cafe%20-%20January%202024) | [YouTube](https://www.youtube.com/watch?v=42SMCTXBlAM) | [Ilana Waitser](https://www.linkedin.com/in/ilana-waitser-368b911/) and [Elyran Malka](https://www.linkedin.com/in/elyran/) |
 | Febaruary 27,2024 | [February 2024](./shownotes/KQL%20Cafe%20-%20February%202024) | [YouTube](https://youtu.be/d-Bw1OsZzMs?si=rpHFVL5--t0c0s_5) |  [Fabian Bader](https://twitter.com/fabian_bader) |
 | March 26,2024 | [March 2024](./shownotes/KQL%20Cafe%20-%20March%202024) | [Youtube](https://youtu.be/iz6UPgOjD-k?si=WmzVdjDylyJK4hSS) | [Purav Desai](https://github.com/puravspoint) |
-| April 30, 2024 | [April 2024](./shownotes/KQL%20Cafe%20-%20April%202024) | [Youtube](https://www.youtube.com/@KQLCafe) comming soon! | [Henning Rauch](https://www.linkedin.com/in/henning-rauch-adx/) |
+| April 30, 2024 | [April 2024](./shownotes/KQL%20Cafe%20-%20April%202024) | [Youtube](https://www.youtube.com/watch?v=o-PKZks9NI4) | [Henning Rauch](https://www.linkedin.com/in/henning-rauch-adx/) |
+| May 28,2024 | [May 204](./shownotes/KQL%20Cafe%20-%20May%202024.md) | [Youtube](https://www.youtube.com/@KQLCafe) |  [Nicola Suter](https://twitter.com/nicolonsky) |
 
 ### 2023
 
