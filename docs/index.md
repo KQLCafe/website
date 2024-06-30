@@ -31,11 +31,13 @@ If you'd like to share your query with the community, feel free to share it via 
 
 ## Upcoming Shows
 
+> We are taking a short summer break, see you back in august
+
 All times are Central european timezone
 
 | Date | Time | Registration | Guest Speaker |
 | ---- | ---- | ------------ | ------------- |
-| June 25 | 6pm - 7:30 pm | [Meetup](https://www.meetup.com/kql-cafe/events/300056899/) | [Michalis Michalos](https://www.linkedin.com/in/mmihalos/) |
+| August 20 | 6pm - 7:30 pm | [Meetup](https://www.meetup.com/kql-cafe/events/) | [TBA]() |
 
 ## Past Shows
 
@@ -47,7 +49,8 @@ All times are Central european timezone
 | Febaruary 27,2024 | [February 2024](./shownotes/2024/KQL%20Cafe%20-%20February%202024.md) | [YouTube](https://youtu.be/d-Bw1OsZzMs?si=rpHFVL5--t0c0s_5) |  [Fabian Bader](https://twitter.com/fabian_bader) |
 | March 26,2024 | [March 2024](./shownotes/2024/KQL%20Cafe%20-%20March%202024.md) | [Youtube](https://youtu.be/iz6UPgOjD-k?si=WmzVdjDylyJK4hSS) | [Purav Desai](https://github.com/puravspoint) |
 | April 30, 2024 | [April 2024](./shownotes/2024/KQL%20Cafe%20-%20April%202024.md) | [Youtube](https://www.youtube.com/watch?v=o-PKZks9NI4) | [Henning Rauch](https://www.linkedin.com/in/henning-rauch-adx/) |
-| May 28,2024 | [May 204](./shownotes/2024/KQL%20Cafe%20-%20May%202024.md) | [Youtube](https://www.youtube.com/@KQLCafe) |  [Nicola Suter](https://twitter.com/nicolonsky) |
+| May 28,2024 | [May 2024](./shownotes/2024/KQL%20Cafe%20-%20May%202024.md) | [Youtube](https://www.youtube.com/watch?v=lKB1sfZuDio&t=5s) |  [Nicola Suter](https://twitter.com/nicolonsky) |
+| June 25 | [June 2024](./shownotes/2024/) | [YouTube](https://www.youtube.com/@KQLCafe) | [Michalis Michalos](https://www.linkedin.com/in/mmihalos/) |
 
 ### 2023
 

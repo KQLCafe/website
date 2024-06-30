@@ -3,7 +3,7 @@
 ## Recording and Presentation
 
 - [Recording](https://www.youtube.com/watch?v=lKB1sfZuDio)
-- [Presentation](../2024/KQL%20Cafe%20-%20May%202024.md)
+- [Presentation](/docs/Presentations/KQL%20Cafe%20-%20May%202024.pdf)
 
 ## Hosts
 
@@ -30,8 +30,9 @@ https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/hunting-i
 https://samilamppu.com/2024/04/15/microsoft-security-exposure-management-xspm-overview-part-1/
 https://samilamppu.com/2024/04/25/microsoft-security-exposure-management-xspm-deep-dive-part-2/
 
-## Nicola Suter
+## Guest
 
+ [Nicola Suter](https://twitter.com/nicolonsky)
 
 ## What did you do with KQL this month?
 
