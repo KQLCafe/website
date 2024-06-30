@@ -23,38 +23,38 @@
 
 - [Microsoft Employee Submitted Queries](https://github.com/KQLMSPress/definitive-guide-kql/tree/main/Extra%20Microsoft%20Employee%20Submitted%20Queries)
 
-Monitoring Cosmos DB's request unit consumption.
-Identifying top N queries by consumption in Cosmos DB.
-Checking for requests that are throttled in Cosmos DB.
-Checking for antivirus exclusions.
-Identifying applications using auto proxy (WPAD).
-Detecting changes to evade detection.
-Analyzing Microsoft Graph API usage patterns.
-Analyzing traffic patterns to Microsoft Graph APIs.
-Monitoring ID Governance in Microsoft Entra for usage patterns.
-Visualizing authentication method use over time.
-Understanding administrative activities.
-Monitoring short-lived connections in PostgreSQL.
-Monitoring failed login attempts in PostgreSQL.
-Resource utilization monitoring in PostgreSQL.
-Summarizing sign-ins via iOS and macOS SSO Extensions.
-Searching for MFA phone number changes using regex.
-Tracking dynamic group membership changes.
-Session breakdown by legacy vs modern TLS.
-Understanding email authentication patterns for security.
-Monitoring token protection impact and managing conditional access.
-Analyzing Intune device management events and enrollments.
-Monitoring failed operations and sign-in events.
-Network traffic monitoring.
-Identity governance operations.
-Detecting suspicious activities and anomalies.
-Identifying vulnerabilities and attack surfaces via IP range and CVE ID tracking.
-Detecting administrative actions and user re-enabling.
-High-risk sign-in patterns detection.
-Reporting on antimalware versions.
-Detecting email anomalies.
-Performance troubleshooting for SQL servers.
-Monitoring conditional access policy applications and failures
+- Monitoring Cosmos DB's request unit consumption.
+- Identifying top N queries by consumption in Cosmos DB.
+- Checking for requests that are throttled in Cosmos DB.
+- Checking for antivirus exclusions.
+- Identifying applications using auto proxy (WPAD).
+- Detecting changes to evade detection.
+- Analyzing Microsoft Graph API usage patterns.
+- Analyzing traffic patterns to Microsoft Graph APIs.
+- Monitoring ID Governance in Microsoft Entra for usage patterns.
+- Visualizing authentication method use over time.
+- Understanding administrative activities.
+- Monitoring short-lived connections in PostgreSQL.
+- Monitoring failed login attempts in PostgreSQL.
+- Resource utilization monitoring in PostgreSQL.
+- Summarizing sign-ins via iOS and macOS SSO Extensions.
+- Searching for MFA phone number changes using regex.
+- Tracking dynamic group membership changes.
+- Session breakdown by legacy vs modern TLS.
+- Understanding email authentication patterns for security.
+- Monitoring token protection impact and managing conditional access.
+- Analyzing Intune device management events and enrollments.
+- Monitoring failed operations and sign-in events.
+- Network traffic monitoring.
+- Identity governance operations.
+- Detecting suspicious activities and anomalies.
+- Identifying vulnerabilities and attack surfaces via IP range and CVE ID tracking.
+- Detecting administrative actions and user re-enabling.
+- High-risk sign-in patterns detection.
+- Reporting on antimalware versions.
+- Detecting email anomalies.
+- Performance troubleshooting for SQL servers.
+- Monitoring conditional access policy applications and failures
 
 ## Our Guest
 
