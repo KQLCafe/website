@@ -2,7 +2,7 @@
 
 ## Recording and Presentation
 
-- [Recording]( COMMING SOON)
+- [Recording](https://www.youtube.com/watch?v=o-PKZks9NI4)
 - [Presentation](../Presentations/KQL%20Cafe%20-%20April%202024.pdf)
 
 ## Hosts
