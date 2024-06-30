@@ -3,7 +3,7 @@
 ## Recording and Presentation
 
 - [Recording](https://youtu.be/d-Bw1OsZzMs?si=rpHFVL5--t0c0s_5)
-- [Presentation](../Presentations/KQL%20Cafe%20-%20February%202024.pdf)
+- [Presentation](/docs/Presentations/KQL%20Cafe%20-%20February%202024.pdf)
 
 ## Hosts
 

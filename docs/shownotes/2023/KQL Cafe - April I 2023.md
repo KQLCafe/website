@@ -2,8 +2,8 @@
 
 ## Recording and Presentation
 
-- [Recording]()
-- [Presentation](../Presentations/)
+- [Recording](https://www.youtube.com/watch?v=GpP-oP5O8iA)
+- [Presentation](/docs/Presentations/KQL%20Cafe%20-%20April%202023.pdf)
 
 ## Hosts
 
@@ -12,4 +12,6 @@
 
 ## Guests
 
-- []() 
+ [Alexander Sloutsky](https://www.linkedin.com/in/sloutsky/)
+
+ 

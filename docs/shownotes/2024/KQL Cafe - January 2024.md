@@ -3,7 +3,7 @@
 ## Recording and Presentation
 
 - [Recording](https://youtu.be/42SMCTXBlAM?si=1mSeolTz9vFKviXq)
-- [Presentation](../Presentations/KQL%20Cafe%20-%20January%202024.pdf)
+- [Presentation](/docs/Presentations/KQL%20Cafe%20-%20January%202024.pdf)
 
 ## Hosts
 
@@ -36,5 +36,4 @@
 - [Microsoft Defender for Endpoint – Streamlined Connectivity Monitoring](https://github.com/alexverboon/Hunting-Queries-Detection-Rules/blob/main/Defender%20For%20Endpoint/MDE-ConnectivityType.md)
 - [Microsoft Defender XDR – Threat Protection Reporting](https://github.com/alexverboon/Hunting-Queries-Detection-Rules/blob/main/Defender%20365/MDXDR-ThreatProtectionReport.md)
 - [Detecting Defender 365 Forwarding Rules policy changes](https://github.com/alexverboon/Hunting-Queries-Detection-Rules/blob/main/Defender%20For%20Office%20365/MDO-InboxForwarding.md)
-- [HTML smuggling detecting Socgolish]()
 - [HTML smuggling surges: Highly evasive loader technique increasingly used in banking malware, targeted attacks](https://www.microsoft.com/en-us/security/blog/2021/11/11/html-smuggling-surges-highly-evasive-loader-technique-increasingly-used-in-banking-malware-targeted-attacks/)

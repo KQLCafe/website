@@ -2,7 +2,7 @@
 
 ## Recording and Presentation
 
-- [Recording]()
+- [Recording](https://youtu.be/Fv0I7aa_P3k)
 - [Presentation](../Presentations/)
 
 ## Hosts
@@ -12,4 +12,5 @@
 
 ## Guests
 
-- []() 
+[Thijs Leconte](https://twitter.com/thijslecomte)
+

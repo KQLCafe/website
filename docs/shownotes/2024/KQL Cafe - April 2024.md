@@ -153,5 +153,3 @@ StorageFileLogs
 // Sum all
 | summarize sum(TotalVolumeGBLog)
 ```
-
-
