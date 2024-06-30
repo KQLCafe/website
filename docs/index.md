@@ -50,7 +50,7 @@ All times are Central european timezone
 | March 26,2024 | [March 2024](./shownotes/2024/KQL%20Cafe%20-%20March%202024.md) | [Youtube](https://youtu.be/iz6UPgOjD-k?si=WmzVdjDylyJK4hSS) | [Purav Desai](https://github.com/puravspoint) |
 | April 30, 2024 | [April 2024](./shownotes/2024/KQL%20Cafe%20-%20April%202024.md) | [Youtube](https://www.youtube.com/watch?v=o-PKZks9NI4) | [Henning Rauch](https://www.linkedin.com/in/henning-rauch-adx/) |
 | May 28,2024 | [May 2024](./shownotes/2024/KQL%20Cafe%20-%20May%202024.md) | [Youtube](https://www.youtube.com/watch?v=lKB1sfZuDio&t=5s) |  [Nicola Suter](https://twitter.com/nicolonsky) |
-| June 25 | [June 2024](./shownotes/2024/) | [YouTube](https://www.youtube.com/@KQLCafe) | [Michalis Michalos](https://www.linkedin.com/in/mmihalos/) |
+| June 25 | [June 2024](./shownotes/2024/KQL%20Cafe%20-%20June%202024.md) | [YouTube](https://www.youtube.com/@KQLCafe) | [Michalis Michalos](https://www.linkedin.com/in/mmihalos/) |
 
 ### 2023
 
