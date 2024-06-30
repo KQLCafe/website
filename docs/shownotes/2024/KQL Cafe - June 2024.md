@@ -3,7 +3,7 @@
 ## Recording and Presentation
 
 - [Recording]()
-- [Presentation](/./docs/Presentations/KQL%20Cafe%20-%20June%202024.pdf)
+- [Presentation](/docs/Presentations/KQL%20Cafe%20-%20June%202024.pdf)
 
 ## Hosts
 
@@ -22,6 +22,8 @@
 - [Audit Defender XDR Activities](https://kqlquery.com/posts/audit-defender-xdr/)
 
 - [Microsoft Employee Submitted Queries](https://github.com/KQLMSPress/definitive-guide-kql/tree/main/Extra%20Microsoft%20Employee%20Submitted%20Queries)
+
+You will find queries for the following use cases:
 
 - Monitoring Cosmos DB's request unit consumption.
 - Identifying top N queries by consumption in Cosmos DB.
