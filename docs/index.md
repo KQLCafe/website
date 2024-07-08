@@ -37,7 +37,9 @@ All times are Central european timezone
 
 | Date | Time | Registration | Guest Speaker |
 | ---- | ---- | ------------ | ------------- |
-| August 20 | 6pm - 7:30 pm | [Meetup](https://www.meetup.com/kql-cafe/events/) | [TBA]() |
+| August 20 | 6pm - 7:30 pm | [Meetup](https://www.meetup.com/kql-cafe/events/) | [Truvis Thornton](https://x.com/thattechkitten) |
+| September | TBA | TBA | TBA |
+| Oct 29 | 6pm - 7:30 pm | [Meetup](https://www.meetup.com/kql-cafe/events/) | [Koos Goosens](https://x.com/KoosGoossens) |
 
 ## Past Shows
 
