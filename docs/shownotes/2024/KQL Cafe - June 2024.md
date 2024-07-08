@@ -115,7 +115,36 @@ DeviceInfo
 on $left.DeviceId == $right.WSLDeviceID
 | sort by TimeGenerated desc
 ```
+
 Check out the above referenced blog post for more KQL for WSL.
+
+## Learn KQL
+
+```kql
+search "*castaldi*"
+```
+
+```kql
+union withsource=Tables *
+```
+
+```kql
+MicrosoftGraphActivityLogs
+| where * contains "200"
+```
+
+```kql
+MicrosoftGraphActivityLogs
+| where ResponseStatusCode == "200"
+| join kind=inner AADNonInteractiveUserSignInLogs on $left.SignInActivityId == $right.UniqueTokenIdentifier
+| project-away *1
+```
+
+```kql
+SigninLogs
+| summarize arg_max(TimeGenerated,*) by ResultType
+| project-keep TimeGenerated, OperationName, AppDisplayName, Risk*
+```
 
 ## What did you do with KQL this month
 
@@ -141,3 +170,52 @@ on $left. JobId_g == $right. JobId_g
 ### Defender for Endpoint - internet-facing devices
 
 - [Defender for Endpoint - internet-facing devices](https://github.com/alexverboon/Hunting-Queries-Detection-Rules/blob/main/Defender%20For%20Endpoint/MDE-InternetFacing.md)
+
+### JA3
+
+show all SSL connections
+
+```kql
+DeviceNetworkEvents
+| where ActionType == "SslConnectionInspected"
+```
+
+show all SSL connections and additional details (unpacked)
+
+```kql
+DeviceNetworkEvents
+| where ActionType == "SslConnectionInspected"
+| extend AF = parse_json(AdditionalFields)
+| evaluate bag_unpack(AF)
+```
+
+show all SSL connections and join on successfull device network events to iidentify the executable JA3 (Client)
+
+```kql
+DeviceNetworkEvents
+| where ActionType == "SslConnectionInspected"
+| extend Array = parse_json(AdditionalFields)
+| join kind=inner (
+DeviceNetworkEvents 
+| where ActionType == "ConnectionSuccess"
+) on DeviceId, LocalIP, LocalPort, RemoteIP, RemotePort
+| extend JA3 = tostring(Array.ja3), JA3S = tostring(Array.ja3s)
+| summarize count() by Client = JA3, 
+//Server = JA3S, 
+InitiatingProcessFileName1, InitiatingProcessVersionInfoProductVersion1
+
+
+show all SSL connections and count the successfull connections to a JA3S (Server)
+
+```kql
+DeviceNetworkEvents
+| where ActionType == "SslConnectionInspected"
+| extend Array = parse_json(AdditionalFields)
+| join kind=inner (
+DeviceNetworkEvents 
+| where ActionType == "ConnectionSuccess"
+) on DeviceId, LocalIP, LocalPort, RemoteIP, RemotePort
+| extend JA3 = tostring(Array.ja3), JA3S = tostring(Array.ja3s)
+| summarize count() by Server = JA3S, 
+InitiatingProcessFileName1, InitiatingProcessVersionInfoProductVersion1, RemoteIP
+```

@@ -37,9 +37,9 @@ All times are Central european timezone
 
 | Date | Time | Registration | Guest Speaker |
 | ---- | ---- | ------------ | ------------- |
-| August 20 | 6pm - 7:30 pm | [Meetup](https://www.meetup.com/kql-cafe/events/) | [Truvis Thornton](https://x.com/thattechkitten) |
+| August 20 | 6pm - 7:30 pm | [Meetup](https://www.meetup.com/kql-cafe/events/302124123/) | [Truvis Thornton](https://x.com/thattechkitten) |
 | September | TBA | TBA | TBA |
-| Oct 29 | 6pm - 7:30 pm | [Meetup](https://www.meetup.com/kql-cafe/events/) | [Koos Goosens](https://x.com/KoosGoossens) |
+| Oct 29 | 6pm - 7:30 pm | [Meetup](https://www.meetup.com/kql-cafe/events/302124204/) | [Koos Goosens](https://x.com/KoosGoossens) |
 
 ## Past Shows
 
@@ -52,7 +52,7 @@ All times are Central european timezone
 | March 26,2024 | [March 2024](./shownotes/2024/KQL%20Cafe%20-%20March%202024.md) | [Youtube](https://youtu.be/iz6UPgOjD-k?si=WmzVdjDylyJK4hSS) | [Purav Desai](https://github.com/puravspoint) |
 | April 30, 2024 | [April 2024](./shownotes/2024/KQL%20Cafe%20-%20April%202024.md) | [Youtube](https://www.youtube.com/watch?v=o-PKZks9NI4) | [Henning Rauch](https://www.linkedin.com/in/henning-rauch-adx/) |
 | May 28,2024 | [May 2024](./shownotes/2024/KQL%20Cafe%20-%20May%202024.md) | [Youtube](https://www.youtube.com/watch?v=lKB1sfZuDio&t=5s) |  [Nicola Suter](https://twitter.com/nicolonsky) |
-| June 25 | [June 2024](./shownotes/2024/KQL%20Cafe%20-%20June%202024.md) | [YouTube](https://www.youtube.com/@KQLCafe) | [Michalis Michalos](https://www.linkedin.com/in/mmihalos/) |
+| June 25 | [June 2024](./shownotes/2024/KQL%20Cafe%20-%20June%202024.md) | [YouTube](https://www.youtube.com/watch?v=Ts8EPurTwpk) | [Michalis Michalos](https://www.linkedin.com/in/mmihalos/) |
 
 ### 2023
 
