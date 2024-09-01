@@ -24,7 +24,7 @@ Here's some instuctions if you wnat to change the default behaviour for KQL simp
 
 ![kqlsimplemode1](kqlsimple1.png)
 ![kqlsimplemode1](kqlsimple2.png)
-![kqlsimplemode1](kqlsimple3.png)
+![kqlsimplemode1](kqlsimple3a.png)
 
 ### Detect compromised RDP sessions with Microsoft Defender for Endpoint
 
