@@ -58,7 +58,7 @@ You will find queries for the following use cases:
 - Performance troubleshooting for SQL servers.
 - Monitoring conditional access policy applications and failures
 
-## Our Guest
+## Our Guest Michalis Michalos
 
 Our guest [Michalis Michalos](https://www.linkedin.com/in/mmihalos/) spoke about Defender for Endpoint and WSL.
 
