@@ -39,7 +39,8 @@ All times are Central european timezone
 | Nov 8  | 2pm - 20:30 pm | [Meetup](https://www.meetup.com/kql-cafe/events/302928826/) | See [KustoCon.com](https://kustocon.com/) |
 | Nov 26 | 6pm - 7:30 pm | [Meetup](https://www.meetup.com/kql-cafe/events/303943035/)  |  [Mehmet Ergene](https://twitter.com/Cyb3rMonk) |
 
-![KustoCon](./Logo/kustocon_logo.png)(https://kustocon.com/)
+[![KustoCon.com](./Logo/kustocon_logo.png)](https://kustocon.com)
+November 8th, 2024
 
 ## Past Shows
 
