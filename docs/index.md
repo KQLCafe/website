@@ -36,8 +36,9 @@ All times are Central european timezone
 | Date | Time | Registration | Guest Speaker |
 | ---- | ---- | ------------ | ------------- |
 | Nov 26 | 6pm - 7:30 pm | [Meetup](https://www.meetup.com/kql-cafe/events/303943035/)  |  [Mehmet Ergene](https://twitter.com/Cyb3rMonk) |
-| Jan 28,2025 | 6pm - 7:30 pm | [Meetup]() | TBA |
-| Feb 25, 2025 | 6pm - 7:30 pm | [Meetup]() | TBA |
+| Jan 28,2025 | 6pm - 7:30 pm | [Meetup]() | [Ian Hanley](https://www.linkedin.com/in/ianhanley/) |
+| Feb 25, 2025 | 6pm - 7:30 pm | [Meetup]() | [Uri Barash](https://www.linkedin.com/in/uribarash/) |
+| March 18,2025 | 6pm - 7:30 pm | [Meetup]() | [Sergio Albea](https://www.linkedin.com/in/sergioalbea/) |
 
 ## Past Shows
 
