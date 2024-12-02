@@ -4,7 +4,8 @@
 
 KustoCon 2024 was kicking off for the first time online on November 8th, 2024. The perfect event for anyone interested in learning, sharing, and getting hands-on with Kusto Query Language (KQL), which is used across a various of Microsoft technologies. All sessions presented by by well-known pros from the KQL community.
 
-[Watch all the KustoCon 2024 sessions](https://www.youtube.com/watch?v=eldX4XyeUtA&list=PL9sQKc0RBCiB73e4q-847W02Rzt3qPzbR)
+Conference Organizers [Alex Verboon](https://www.linkedin.com/in/verboonalex/) , [Gianni Castaldi](https://www.linkedin.com/in/giannicastaldi/) and
+[Frans Oudendorp](https://www.linkedin.com/in/fransoudendorp/)
 
 ## Welcome & What is KQL and Why you should learn it
 
