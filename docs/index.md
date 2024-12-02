@@ -35,10 +35,9 @@ All times are Central european timezone
 
 | Date | Time | Registration | Guest Speaker |
 | ---- | ---- | ------------ | ------------- |
-| Nov 26 | 6pm - 7:30 pm | [Meetup](https://www.meetup.com/kql-cafe/events/303943035/)  |  [Mehmet Ergene](https://twitter.com/Cyb3rMonk) |
-| Jan 28,2025 | 6pm - 7:30 pm | [Meetup]() | [Ian Hanley](https://www.linkedin.com/in/ianhanley/) |
-| Feb 25, 2025 | 6pm - 7:30 pm | [Meetup]() | [Uri Barash](https://www.linkedin.com/in/uribarash/) |
-| March 18,2025 | 6pm - 7:30 pm | [Meetup]() | [Sergio Albea](https://www.linkedin.com/in/sergioalbea/) |
+| Jan 28,2025 | 6pm - 7:30 pm | [Meetup](https://www.meetup.com/kql-cafe/events/304886081/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) | [Ian Hanley](https://www.linkedin.com/in/ianhanley/) |
+| Feb 25, 2025 | 6pm - 7:30 pm | [Meetup](https://www.meetup.com/kql-cafe/events/304886113/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) | [Uri Barash](https://www.linkedin.com/in/uribarash/) |
+| March 18,2025 | 6pm - 7:30 pm | [Meetup](https://www.meetup.com/kql-cafe/events/304886157/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) | [Sergio Albea](https://www.linkedin.com/in/sergioalbea/) |
 
 ## Past Shows
 
@@ -53,7 +52,8 @@ All times are Central european timezone
 | May 28,2024 | [May 2024](./shownotes/2024/KQL%20Cafe%20-%20May%202024.md) | [Youtube](https://www.youtube.com/watch?v=lKB1sfZuDio&t=5s) |  [Nicola Suter](https://twitter.com/nicolonsky) |
 | June 25 2024 | [June 2024](./shownotes/2024/KQL%20Cafe%20-%20June%202024.md) | [YouTube](https://www.youtube.com/watch?v=Ts8EPurTwpk) | [Michalis Michalos](https://www.linkedin.com/in/mmihalos/) |
 | August 20 2024 | [August 2024](./shownotes/2024/KQL%20Cafe%20-%20August%202024.md) | [YouTube](https://www.youtube.com/watch?v=iX-TSOjfDYA) | [Truvis Thornton](https://x.com/thattechkitten) |
-| October 29 2024 | [October 204](./shownotes/2024/KQL%20Cafe%20-%20October%202024.md) | [Youtube](https://www.youtube.com/watch?v=vD9gsQzIZnI) |  [Koos Goosens](https://x.com/KoosGoossens) |
+| October 29 2024 | [October 2024](./shownotes/2024/KQL%20Cafe%20-%20October%202024.md) | [Youtube](https://www.youtube.com/watch?v=vD9gsQzIZnI) |  [Koos Goosens](https://x.com/KoosGoossens) |
+| November 26 2024 | [November 2024](./shownotes/2024/) | [Youtube](https://www.youtube.com/watch?v=lcN4LBtPKPk) | [Mehmet Ergene](https://twitter.com/Cyb3rMonk) |
 
 ### 2023
 
