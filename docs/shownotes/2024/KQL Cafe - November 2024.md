@@ -72,6 +72,61 @@ You can use it to discover threats that can be observed through process details,
 
 - [Mehmet Ergene](https://twitter.com/Cyb3rMonk)
 
+### Time Travel in KQL
+
+The basics
+
+```kql
+// must set the datetimescope_column
+// set query_datetimescope_column = "TimeGenerated";
+// set query_datetimescope_from = datetime(2024-09-01 19:16:00);
+// set query_datetimescope_to = datetime(2024-09-14 19:16:00);
+// set query_now = datetime(2023-09-14 19:16:00);
+AADNonInteractiveUserSignInLogs
+| where TimeGenerated > ago(30d)
+| summarize min(TimeGenerated), max(TimeGenerated), count()
+```
+
+Testing the query as of certain dates in the past without modifying the now() and ago() parts.
+
+```kql
+// Author: MattZorich (reprise_99)
+//Detect anomalies in the amount of conditional access failures by users in your tenant, then visualize those conditional access failures
+//Data connector required for this query - Azure Active Directory - Signin Logs
+//Starttime and endtime = which period of data to look at, i.e from 21 days ago until today.
+set query_datetimescope_column = "TimeGenerated";
+set query_datetimescope_from = datetime(2024-07-01 19:16:00);
+set query_datetimescope_to = datetime(2024-11-24 19:16:00);
+set query_now = datetime(2024-11-24 19:16:00);
+let startdate=21d;
+let enddate=1d;
+//Timeframe = time period to break the data up into, i.e 1 hour blocks.
+let timeframe=1h;
+//Sensitivity = the lower the number the more sensitive the anomaly detection is, i.e it will find more anomalies, default is 1.5
+let sensitivity=0;
+//Threshold = set this to tune out low count anomalies, i.e when total failures for a user doubles from 1 to 2
+let threshold=5;
+let outlierusers=
+    SigninLogs
+    | where TimeGenerated between (startofday(ago(startdate))..startofday(ago(enddate)))
+    | where ResultType == 53003
+    | project TimeGenerated, ResultType, UserPrincipalName
+    | make-series CAFailureCount=count() on TimeGenerated from startofday(ago(startdate)) to startofday(ago(enddate)) step timeframe by UserPrincipalName 
+    | extend outliers=series_decompose_anomalies(CAFailureCount, sensitivity)
+    | mv-expand TimeGenerated, CAFailureCount, outliers
+    | where outliers == 1 and CAFailureCount > threshold
+    | distinct UserPrincipalName
+    ;
+//Optionally visualize the anomalies
+SigninLogs
+| where TimeGenerated between (startofday(ago(startdate))..startofday(ago(enddate)))
+| where ResultType == "53003"
+| project TimeGenerated, ResultType, UserPrincipalName
+| where UserPrincipalName in (outlierusers)
+| summarize CAFailures=count()by UserPrincipalName, bin(TimeGenerated, timeframe)
+| render timechart with (ytitle="Failure Count",title="Anomalous Conditional Access Failures")
+```
+
 ## What did you do with KQL this month?
 
 ### Azure DevOps – Organization Policy Change Monitoring
