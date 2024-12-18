@@ -1,4 +1,4 @@
-# KQL Cafe - September 2024
+# KQL Cafe - November 2024
 
 ## Recording and Presentation
 
