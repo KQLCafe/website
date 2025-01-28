@@ -85,6 +85,11 @@ union DeviceFileEvents, DeviceLogonEvents, DeviceNetworkEvents, DeviceProcessEve
 - [Website](https://hanleycloudsolutions.com/)
 - [Website](https://www.hanley.cloud/)
 
+- [Workspace Transformation Rules](https://www.hanley.cloud/2023-05-10-Workspace-Transformation-Rules/)
+- [Powerbi & Log Analytics Workspace](https://www.hanley.cloud/2024-01-19-PowerBI-&-Log-Analytics-Workspace/)
+
+You will find many of the queries demonstrated here: [KQL Repository](https://github.com/EEN421/KQL-Queries)
+
 ## Learn KQL
 
 ### Parse_Url & Parse_Path
@@ -186,7 +191,7 @@ ExposureGraphEdges
 
 ### MFA Fraud Alert Retirement -> Report Suspicious Activity
 
-Microsoft is retiring the MFA Fraud alert in favor of the replacement feature "Report Suspicious Activity" here's a KQL query to detect these events. 
+Microsoft is retiring the MFA Fraud alert in favor of the replacement feature "Report Suspicious Activity" here's a KQL query to detect these events.
 
 [Query](https://github.com/alexverboon/Hunting-Queries-Detection-Rules/blob/main/Entra%20ID/EntraID%20-%20Suspicious%20activity%20reported.md)
 
