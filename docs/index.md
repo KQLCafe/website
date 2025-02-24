@@ -7,8 +7,11 @@
 - A Community to make the world a better place with KQL
 - Learn, share and practice the KQL language
 
-- Follow us on Twitter [@KqlCafe](https://twitter.com/KqlCafe) and [Twitter Community](https://twitter.com/i/communities/1496809036393730050)
-- Join us on Meetup [KQLCafe](https://www.meetup.com/kql-cafe)
+## Follow us
+
+- Follow us on [BlueSky](https://bsky.app/profile/kqlcafe.bsky.social)
+- Follow us on [Twitter](https://twitter.com/KqlCafe)
+- Join our KQLCafe [Meetups](https://www.meetup.com/kql-cafe)
 - Join our group on [LinkedIn](https://www.linkedin.com/groups/14053778/)
 - Watch the KQL Cafe session videos on [YouTube](https://www.youtube.com/channel/UCUJwJO79TYZdnpQ9WWtzQDg/featured)
 
