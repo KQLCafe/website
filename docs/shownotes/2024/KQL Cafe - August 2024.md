@@ -3,7 +3,6 @@
 ## Recording and Presentation
 
 - [Recording](https://www.youtube.com/watch?v=iX-TSOjfDYA)
-- [Presentation](/docs/Presentations/KQL%20Cafe%20-%20August%202024.pdf)
 
 ## Hosts
 

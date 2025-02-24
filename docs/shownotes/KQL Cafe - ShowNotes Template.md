@@ -1,4 +1,4 @@
-# KQL Cafe - Month 2025
+# KQL Cafe - Month Year
 
 ## Recording and Presentation
 

@@ -2,8 +2,7 @@
 
 ## Recording and Presentation
 
-- [Recording]()
-- [Presetnation]()
+- [Recording](https://www.youtube.com/watch?v=4tZL5sW-Dbo)
 
 ## Hosts
 

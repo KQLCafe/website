@@ -35,11 +35,16 @@ All times are Central european timezone
 
 | Date | Time | Registration | Guest Speaker |
 | ---- | ---- | ------------ | ------------- |
-| Jan 28,2025 | 6pm - 7:30 pm | [Meetup](https://www.meetup.com/kql-cafe/events/304886081/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) | [Ian Hanley](https://www.linkedin.com/in/ianhanley/) |
 | Feb 25, 2025 | 6pm - 7:30 pm | [Meetup](https://www.meetup.com/kql-cafe/events/304886113/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) | [Uri Barash](https://www.linkedin.com/in/uribarash/) |
 | March 18,2025 | 6pm - 7:30 pm | [Meetup](https://www.meetup.com/kql-cafe/events/304886157/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) | [Sergio Albea](https://www.linkedin.com/in/sergioalbea/) |
 
 ## Past Shows
+
+### 2025
+
+| Date            | Show Notes     | Recording | Guest Speaker    |
+| --------------- | -------------- | ------------ | ------------- |
+| January 28,2025 | [January 2025](./shownotes/2025/KQL%20Cafe%20-%20January%202025.md) | [YouTube](https://www.youtube.com/watch?v=4tZL5sW-Dbo) | [Ian Hanley](https://www.linkedin.com/in/ianhanley/) |
 
 ### 2024
 
