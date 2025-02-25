@@ -40,6 +40,7 @@ All times are Central european timezone
 | ---- | ---- | ------------ | ------------- |
 | Feb 25, 2025 | 6pm - 7:30 pm | [Meetup](https://www.meetup.com/kql-cafe/events/304886113/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) | [Uri Barash](https://www.linkedin.com/in/uribarash/) |
 | March 18,2025 | 6pm - 7:30 pm | [Meetup](https://www.meetup.com/kql-cafe/events/304886157/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) | [Sergio Albea](https://www.linkedin.com/in/sergioalbea/) |
+| April 29,2025 | 6pm - 7:30 pm| [Meetup](https://www.meetup.com/kql-cafe/events/306399547/?eventOrigin=group_events_list) | [Bert-Jan](https://twitter.com/BertJanCyber) |
 
 ## Past Shows
 
