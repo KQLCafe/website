@@ -19,8 +19,8 @@
 
 ## Show hosts
 
-- [Gianni](https://twitter.com/castello_johnny)
-- [Alex](https://twitter.com/alexverboon)
+- [Gianni Castaldi](https://www.linkedin.com/in/giannicastaldi/)
+- [Alex Verboon](https://www.linkedin.com/in/verboonalex/)
 
 ## Community Contributions
 
