@@ -11,7 +11,7 @@
 
 ## Guests
 
-- [Name](http://example.url)
+- [Uri Barash](https://www.linkedin.com/in/uribarash/)
 
 ## KQL News
 
