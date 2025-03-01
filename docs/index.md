@@ -34,12 +34,14 @@ If you'd like to share your query with the community, feel free to share it via 
 
 ## Upcoming Shows
 
-All times are Central european timezone
-
 | Date | Time | Registration | Guest Speaker |
 | ---- | ---- | ------------ | ------------- |
 | March 18,2025 | 6pm - 7:30 pm | [Meetup](https://www.meetup.com/kql-cafe/events/304886157/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) | [Sergio Albea](https://www.linkedin.com/in/sergioalbea/) |
 | April 29,2025 | 6pm - 7:30 pm| [Meetup](https://www.meetup.com/kql-cafe/events/306399547/?eventOrigin=group_events_list) | [Bert-Jan](https://twitter.com/BertJanCyber) |
+
+We start at 6pm Amsterdam/Zurich CET
+
+<!-- Sydney, 4 AM (Next Day), Perth, 1 AM (Next Day), Kuala Lumpur, 1 AM (Next Day), Mumbai, 10:30 PM, Tel-Aviv, 8 PM, Johannesburg, 7 PM, Rio de Janeiro, 2 PM, New York, 12 PM, Toronto, 12 PM, Houston, 11 AM, Seattle, 9 AM -->
 
 ## Past Shows
 
