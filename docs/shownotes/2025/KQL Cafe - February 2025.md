@@ -41,6 +41,10 @@ Product Management: Kusto, Fabric Real Time Analytics, Azure Data Explorer
 
 Uri provided an introduction with live demos on [Microsoft Fabric](https://www.microsoft.com/en-us/microsoft-fabric)
 
+- [Places to submit and vote for feature requests and ideas for Fabric](https://aka.ms/Fabric.RTI.Ideas)
+- [Places to submit and vote for feature requests and ideas for ADX](https://aka.ms/adx.ideas)
+- [Fabric RTI Roadmap](https://aka.ms/Fabric.rti.roadmap)
+
 ## Learn KQL
 
 ### SC-200: Create queries for Microsoft Sentinel using Kusto Query Language (KQL)
