@@ -43,7 +43,6 @@ If you'd like to share your query with the community, feel free to share it via 
 
 > Sydney, 4 AM (Next Day), Perth, 1 AM (Next Day), Kuala Lumpur, 1 AM (Next Day), Mumbai, 10:30 PM, Tel-Aviv, 8 PM, Johannesburg, 7 PM, Rio de Janeiro, 2 PM, New York, 12 PM, Toronto, 12 PM, Houston, 11 AM, Seattle, 9 AM
 
-
 ## Past Shows
 
 ### 2025
@@ -51,7 +50,7 @@ If you'd like to share your query with the community, feel free to share it via 
 | Date            | Show Notes     | Recording | Guest Speaker    |
 | --------------- | -------------- | ------------ | ------------- |
 | January 28,2025 | [January 2025](./shownotes/2025/KQL%20Cafe%20-%20January%202025.md) | [YouTube](https://www.youtube.com/watch?v=4tZL5sW-Dbo) | [Ian Hanley](https://www.linkedin.com/in/ianhanley/) |
-| February 25,2025 | [February 2025](./shownotes//2025/KQL%20Cafe%20-%20February%202025.md) | [YouTube](https://www.youtube.com/@KQLCafe) |  [Uri Barash](https://www.linkedin.com/in/uribarash/) |
+| February 25,2025 | [February 2025](./shownotes//2025/KQL%20Cafe%20-%20February%202025.md) | [YouTube](https://youtu.be/B9fbGszXE04) |  [Uri Barash](https://www.linkedin.com/in/uribarash/) |
 
 ### 2024
 

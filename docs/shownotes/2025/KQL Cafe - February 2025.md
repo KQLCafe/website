@@ -2,7 +2,7 @@
 
 ## Recording and Presentation
 
-- [Recording]()
+- [Recording](https://youtu.be/B9fbGszXE04)
 
 ## Hosts
 
