@@ -36,7 +36,6 @@ If you'd like to share your query with the community, feel free to share it via 
 
 | Date | Time | Registration | Guest Speaker |
 | ---- | ---- | ------------ | ------------- |
-| March 18,2025 | 6pm - 7:30 pm | [Meetup](https://www.meetup.com/kql-cafe/events/304886157/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) | [Sergio Albea](https://www.linkedin.com/in/sergioalbea/) |
 | April 29,2025 | 6pm - 7:30 pm| [Meetup](https://www.meetup.com/kql-cafe/events/306399547/?eventOrigin=group_events_list) | [Bert-Jan](https://twitter.com/BertJanCyber) |
 
 > We start at 6pm Amsterdam/Zurich CET
@@ -51,6 +50,7 @@ If you'd like to share your query with the community, feel free to share it via 
 | --------------- | -------------- | ------------ | ------------- |
 | January 28,2025 | [January 2025](./shownotes/2025/KQL%20Cafe%20-%20January%202025.md) | [YouTube](https://www.youtube.com/watch?v=4tZL5sW-Dbo) | [Ian Hanley](https://www.linkedin.com/in/ianhanley/) |
 | February 25,2025 | [February 2025](./shownotes//2025/KQL%20Cafe%20-%20February%202025.md) | [YouTube](https://youtu.be/B9fbGszXE04) |  [Uri Barash](https://www.linkedin.com/in/uribarash/) |
+| March 18,2025 | [March 2025](/docs/shownotes/2025/KQL%20Cafe%20-%20March%202025.md) | [YouTube](https://www.youtube.com/watch?v=znT_gdYi5Tw) |  [Sergio Albea](https://www.linkedin.com/in/sergioalbea/) |
 
 ### 2024
 
