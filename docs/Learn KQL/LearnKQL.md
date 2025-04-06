@@ -1,5 +1,7 @@
 # Learn & Practice Kusto Query Language (KQL)
 
+Below you find a few resources to start or improve your KQL skills.
+
 ## KQL Search
 
 ![KQLSearch](../img/kqlsearch.png)
