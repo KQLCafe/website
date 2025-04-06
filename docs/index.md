@@ -36,7 +36,9 @@ If you'd like to share your query with the community, feel free to share it via 
 
 | Date | Time | Registration | Guest Speaker |
 | ---- | ---- | ------------ | ------------- |
-| April 29,2025 | 6pm - 7:30 pm| [Meetup](https://www.meetup.com/kql-cafe/events/306399547/?eventOrigin=group_events_list) | [Bert-Jan](https://twitter.com/BertJanCyber) |
+| April 29,2025 | 6pm - 7:30 pm | [Meetup](https://www.meetup.com/kql-cafe/events/306399547/?eventOrigin=group_events_list) | [Bert-Jan](https://twitter.com/BertJanCyber) |
+| May 27,2025 | 6pm - 7:30 pm |[Meetup]() |  [Michalis Michalos](https://www.linkedin.com/in/mmihalos/) & [Christos Galanopoulos](https://www.linkedin.com/in/christos-galanopoulos/) |
+| June 23,2025 | 6pm - 7:30 pm |[Meetup]() | [Thomas Naunheim](https://www.linkedin.com/in/thomasnaunheim/) |
 
 > We start at 6pm Amsterdam/Zurich CET
 
