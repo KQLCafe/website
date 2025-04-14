@@ -7,6 +7,17 @@
 - A Community to make the world a better place with KQL
 - Learn, share and practice the KQL language
 
+## What is KQL Cafe?
+
+KQL Cafe is a community-driven event series focused on Kusto Query Language (KQL), which is used primarily in Microsoft technologies like Azure Data Explorer, Microsoft Sentinel, and Defender for Endpoint for querying and analyzing large volumes of data.
+
+The "Cafe" concept gives it a casual, community-friendly vibe — like a meet-up over coffee, but for learning and sharing knowledge around KQL. Our sessions typically feature:
+
+- Expert talks and guest speakers
+- Real-world use cases and demos
+- Interactive Q&A sessions
+- Tips and tricks for writing and optimizing KQL queries
+
 ## Follow us
 
 - Follow us on [BlueSky](https://bsky.app/profile/kqlcafe.bsky.social)
