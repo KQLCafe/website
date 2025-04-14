@@ -9,7 +9,7 @@
 
 ## What is KQL Cafe?
 
-KQL Cafe is a community-driven event series focused on Kusto Query Language (KQL), which is used primarily in Microsoft technologies like Azure Data Explorer, Microsoft Sentinel, and Defender for Endpoint for querying and analyzing large volumes of data.
+KQL Cafe is a community-driven event series focused on Kusto Query Language (KQL), which is used primarily in Microsoft technologies like Azure Data Explorer, Microsoft Sentinel, and Defender for XDR and Microsoft Intune for querying and analyzing large volumes of data.
 
 The "Cafe" concept gives it a casual, community-friendly vibe — like a meet-up over coffee, but for learning and sharing knowledge around KQL. Our sessions typically feature:
 
