@@ -1,9 +1,8 @@
 # KQL Cafe - Month Year
 
-## Recording and Presentation
+## Recording
 
 - [Recording]()
-- [Presetnation]()
 
 ## Hosts
 
