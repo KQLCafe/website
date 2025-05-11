@@ -64,8 +64,8 @@ If you'd like to share your query with the community, feel free to share it via 
 | --------------- | -------------- | ------------ | ------------- |
 | January 28,2025 | [January 2025](./shownotes/2025/KQL%20Cafe%20-%20January%202025.md) | [YouTube](https://www.youtube.com/watch?v=4tZL5sW-Dbo) | [Ian Hanley](https://www.linkedin.com/in/ianhanley/) |
 | February 25,2025 | [February 2025](./shownotes//2025/KQL%20Cafe%20-%20February%202025.md) | [YouTube](https://youtu.be/B9fbGszXE04) |  [Uri Barash](https://www.linkedin.com/in/uribarash/) |
-| March 18,2025 | [March 2025](/docs/shownotes/2025/KQL%20Cafe%20-%20March%202025.md) | [YouTube](https://www.youtube.com/watch?v=znT_gdYi5Tw) |  [Sergio Albea](https://www.linkedin.com/in/sergioalbea/) |
-| April 29,2025 | [April 2025](/docs/shownotes/2025/KQL%20Cafe%20-%20April%202025.md) | [YouTube](https://www.youtube.com/@KQLCafe) |  [Bert-Jan](https://twitter.com/BertJanCyber) |
+| March 18,2025 | [March 2025](./shownotes/2025/KQL%20Cafe%20-%20March%202025.md) | [YouTube](https://www.youtube.com/watch?v=znT_gdYi5Tw) |  [Sergio Albea](https://www.linkedin.com/in/sergioalbea/) |
+| April 29,2025 | [April 2025](./shownotes/2025/KQL%20Cafe%20-%20April%202025.md) | [YouTube](https://www.youtube.com/@KQLCafe) |  [Bert-Jan](https://twitter.com/BertJanCyber) |
 
 ### 2024
 
