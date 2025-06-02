@@ -6,4 +6,8 @@
 
  This year the KustoCon Conference will run in Hybrid Mode. With exclusive Workshops in the morning for those attending onsite and KustoCon sessions in the afternoon for both onsite and online participants.
 
- We will share more details soon on [KustoCon.com](https://kustocon.com/)
+ For more details see [KustoCon.com](https://kustocon.com/)
+
+***Thanks to our sponsors***
+
+ ![Sponsors](../Logo/social_sponsor_white_bg.png)
