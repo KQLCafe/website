@@ -47,7 +47,6 @@ If you'd like to share your query with the community, feel free to share it via 
 
 | Date | Time | Registration | Guest Speaker |
 | ---- | ---- | ------------ | ------------- |
-| May 27,2025 | 6pm - 7:30pm |[Meetup](https://www.meetup.com/kql-cafe/events/307144777/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) |  [Michalis Michalos](https://www.linkedin.com/in/mmihalos/) & [Christos Galanopoulos](https://www.linkedin.com/in/christos-galanopoulos/) |
 | June 23,2025 | 6pm - 7:30pm |[Meetup](https://www.meetup.com/kql-cafe/events/307145003/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) | [Thomas Naunheim](https://www.linkedin.com/in/thomasnaunheim/) |
 | August 26,2025 | 6pm - 7:30pm | [Meetup](https://www.meetup.com/kql-cafe/events/307290090/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) | [Mona Ghadiri](https://www.linkedin.com/in/monaghadiri/) |
 | October 28,2025 | 6pm - 7:30pm | [Meetup](https://www.meetup.com/kql-cafe/events/307290144/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) | [Yoan Schinck](https://www.linkedin.com/in/yoan-schinck-740b6a122/) |
@@ -65,7 +64,8 @@ If you'd like to share your query with the community, feel free to share it via 
 | January 28,2025 | [January 2025](./shownotes/2025/KQL%20Cafe%20-%20January%202025.md) | [YouTube](https://www.youtube.com/watch?v=4tZL5sW-Dbo) | [Ian Hanley](https://www.linkedin.com/in/ianhanley/) |
 | February 25,2025 | [February 2025](./shownotes//2025/KQL%20Cafe%20-%20February%202025.md) | [YouTube](https://youtu.be/B9fbGszXE04) |  [Uri Barash](https://www.linkedin.com/in/uribarash/) |
 | March 18,2025 | [March 2025](./shownotes/2025/KQL%20Cafe%20-%20March%202025.md) | [YouTube](https://www.youtube.com/watch?v=znT_gdYi5Tw) |  [Sergio Albea](https://www.linkedin.com/in/sergioalbea/) |
-| April 29,2025 | [April 2025](./shownotes/2025/KQL%20Cafe%20-%20April%202025.md) | [YouTube](https://www.youtube.com/@KQLCafe) |  [Bert-Jan](https://twitter.com/BertJanCyber) |
+| April 29,2025 | [April 2025](./shownotes/2025/KQL%20Cafe%20-%20April%202025.md) | [YouTube](https://www.youtube.com/watch?v=sQaBtJ9UU5k&t=16s) |  [Bert-Jan](https://twitter.com/BertJanCyber) |
+| May 27,2025 | [May 2025](./shownotes/2025/KQL%20Cafe%20-%20May%202025.md) | [Youtube](https://www.youtube.com/@KQLCafe) |  [Michalis Michalos](https://www.linkedin.com/in/mmihalos/) & [Christos Galanopoulos](https://www.linkedin.com/in/christos-galanopoulos/) |
 
 ### 2024
 

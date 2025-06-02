@@ -2,7 +2,7 @@
 
 ## Recording
 
-- [Recording]()
+- [Recording](https://www.youtube.com/watch?v=sQaBtJ9UU5k&t=16s)
 
 ## Hosts
 
