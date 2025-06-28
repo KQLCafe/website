@@ -2,7 +2,7 @@
 
 ## Recording
 
-- [Recording]()
+- [Recording](https://www.youtube.com/watch?v=Yna97PlIX18)
 
 ## Hosts
 
@@ -31,6 +31,7 @@ Microsoft introduces three new Advaned Hunting tables designed to hunt for Teams
 ## Guest
 
 - [Michalis Michalos](https://www.linkedin.com/in/mmihalos/)
+- [Blog](https://www.michalos.net/)
 - [Christos Galanopoulos](https://www.linkedin.com/in/christos-galanopoulos/)
 
 ### sKaleQL
