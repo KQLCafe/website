@@ -66,7 +66,7 @@ If you'd like to share your query with the community, feel free to share it via 
 | March 18,2025 | [March 2025](./shownotes/2025/KQL%20Cafe%20-%20March%202025.md) | [YouTube](https://www.youtube.com/watch?v=znT_gdYi5Tw) |  [Sergio Albea](https://www.linkedin.com/in/sergioalbea/) |
 | April 29,2025 | [April 2025](./shownotes/2025/KQL%20Cafe%20-%20April%202025.md) | [YouTube](https://www.youtube.com/watch?v=sQaBtJ9UU5k&t=16s) |  [Bert-Jan](https://twitter.com/BertJanCyber) |
 | May 27,2025 | [May 2025](./shownotes/2025/KQL%20Cafe%20-%20May%202025.md) | [Youtube](https://www.youtube.com/watch?v=Yna97PlIX18) |  [Michalis Michalos](https://www.linkedin.com/in/mmihalos/) & [Christos Galanopoulos](https://www.linkedin.com/in/christos-galanopoulos/) |
-| June 23,2025 | [June 2025](./shownotes/2025/KQL%20Cafe%20-%20June%202025.md) | [Youtube](https://www.youtube.com/channel/UCUJwJO79TYZdnpQ9WWtzQDg/featured) | [Thomas Naunheim](https://www.linkedin.com/in/thomasnaunheim/) |
+| June 23,2025 | [June 2025](./shownotes/2025/KQL%20Cafe%20-%20June%202025.md) | [Youtube](https://www.youtube.com/watch?v=goiF5qVfV4g) | [Thomas Naunheim](https://www.linkedin.com/in/thomasnaunheim/) |
 
 ### 2024
 
