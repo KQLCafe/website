@@ -49,9 +49,9 @@ If you'd like to share your query with the community, feel free to share it via 
 | ---- | ---- | ------------ | ------------- |
 | October 27,2025 | 6pm - 7:30pm | [Meetup](https://www.meetup.com/kql-cafe/events/307290144/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) | [Yoan Schinck](https://www.linkedin.com/in/yoan-schinck-740b6a122/) |
 | November 6,2025 | All Day | [KustoCon 2025](https://kustocon.com/) | [Speakers](https://kustocon.com/sessions/) |
-| November 24,2025 | 6pm - 7:30pm | [Meetup](TBA) | [Daniel Mozes](https://www.linkedin.com/in/daniel-m-b4201664/) |
-| January 27,2025 | 6pm - 7:30pm | [Meetup](TBA) | [Simon Scharschinger](https://www.linkedin.com/in/simonscharschinger/) |
-| February 17,2025 | 6pm - 7:30pm | [Meetup](TBA) | [Michael Crane](https://www.linkedin.com/in/michael-crane-70b44539/) |
+| November 24,2025 | 6pm - 7:30pm | (TBA) | [Daniel Mozes](https://www.linkedin.com/in/daniel-m-b4201664/) |
+| January 27,2025 | 6pm - 7:30pm |  (TBA) | [Simon Scharschinger](https://www.linkedin.com/in/simonscharschinger/) |
+| February 17,2025 | 6pm - 7:30pm | (TBA) | [Michael Crane](https://www.linkedin.com/in/michael-crane-70b44539/) |
 
 > We start at 6pm Amsterdam/Zurich CET
 
