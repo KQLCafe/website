@@ -62,6 +62,7 @@ docs_dir: docs
 # Plugins
 plugins:
   - search
+  - embed-video
   #- simple
   #- simple:
   #    include_extensions:

@@ -4,6 +4,10 @@
 
 - [Recording](https://www.youtube.com/watch?v=goiF5qVfV4g)
 
+{% youtube goiF5qVfV4g %}
+
+[Watch on YouTube](https://www.youtube.com/watch?v=goiF5qVfV4g)
+
 ## Hosts
 
 - [Gianni](https://twitter.com/castello_johnny)
