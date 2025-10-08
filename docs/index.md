@@ -51,7 +51,7 @@ If you'd like to share your query with the community, feel free to share it via 
 | November 6,2025 | All Day | [KustoCon 2025](https://kustocon.com/) | [Speakers](https://kustocon.com/sessions/) |
 | November 24,2025 | 6pm - 7:30pm | (TBA) | [Daniel Mozes](https://www.linkedin.com/in/daniel-m-b4201664/) |
 | January 27,2025 | 6pm - 7:30pm |  (TBA) | [Simon Scharschinger](https://www.linkedin.com/in/simonscharschinger/) |
-| February 17,2025 | 6pm - 7:30pm | (TBA) | [Michael Crane](https://www.linkedin.com/in/michael-crane-70b44539/) |
+| February 17,2026 | 6pm - 7:30pm | (TBA) | [Michael Crane](https://www.linkedin.com/in/michael-crane-70b44539/) |
 
 > We start at 6pm Amsterdam/Zurich CET
 
