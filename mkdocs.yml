@@ -62,12 +62,12 @@ docs_dir: docs
 # Plugins
 plugins:
   - search
-    - mkdocs-video:
+  - mkdocs-video:
       is_video: True
       video_muted: True
       video_controls: True
       css_style:
-        width: "50%"
+      width: "50%"
   #- simple
   #- simple:
   #    include_extensions:
