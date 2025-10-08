@@ -2,9 +2,15 @@
 
 ## Recording
 
-- [Recording](https://www.youtube.com/watch?v=goiF5qVfV4g)
+<!-- Embedded video: script-injected responsive YouTube iframe -->
+<div id="ytembed-goiF5qVfV4g" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
+    <noscript>
+        <!-- Fallback for users with JavaScript disabled -->
+        <iframe src="https://www.youtube.com/embed/goiF5qVfV4g" title="KQL Cafe - June 2025" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+    </noscript>
+</div>
 
-![type:video](https://www.youtube.com/embed/goiF5qVfV4g?si=BMFNuXTfnq01qP32)
+[Watch on YouTube](https://www.youtube.com/watch?v=goiF5qVfV4g)
 
 ## Hosts
 
