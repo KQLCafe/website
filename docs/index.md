@@ -52,6 +52,7 @@ If you'd like to share your query with the community, feel free to share it via 
 | November 24,2025 | 6pm - 7:30pm | (TBA) | [Daniel Mozes](https://www.linkedin.com/in/daniel-m-b4201664/) |
 | January 27,2026 | 6pm - 7:30pm |  (TBA) | [Simon Scharschinger](https://www.linkedin.com/in/simonscharschinger/) |
 | February 17,2026 | 6pm - 7:30pm | (TBA) | [Michael Crane](https://www.linkedin.com/in/michael-crane-70b44539/) |
+| March 17th, 2026 | 6pm - 7:30pm | (TBA) | [Laurie Rhodes](https://www.linkedin.com/in/laurie-rhodes-4903076/) |
 
 > We start at 6pm Amsterdam/Zurich CET
 
