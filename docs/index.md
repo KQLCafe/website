@@ -47,8 +47,6 @@ If you'd like to share your query with the community, feel free to share it via 
 
 | Date | Time | Registration | Guest Speaker |
 | ---- | ---- | ------------ | ------------- |
-| October 27,2025 | 6pm - 7:30pm | [Meetup](https://www.meetup.com/kql-cafe/events/307290144/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) | [Yoan Schinck](https://www.linkedin.com/in/yoan-schinck-740b6a122/) |
-| November 6,2025 | All Day | [KustoCon 2025](https://kustocon.com/) | [Speakers](https://kustocon.com/sessions/) |
 | November 24,2025 | 6pm - 7:30pm | [Meetup](https://www.meetup.com/kql-cafe/events/311845458/) | [Daniel Mozes](https://www.linkedin.com/in/daniel-m-b4201664/) |
 | January 27,2026 | 6pm - 7:30pm |  (TBA) | [Simon Scharschinger](https://www.linkedin.com/in/simonscharschinger/) |
 | February 17,2026 | 6pm - 7:30pm | (TBA) | [Michael Crane](https://www.linkedin.com/in/michael-crane-70b44539/) |
@@ -70,6 +68,7 @@ If you'd like to share your query with the community, feel free to share it via 
 | April 29,2025 | [April 2025](./shownotes/2025/KQL%20Cafe%20-%20April%202025.md) | [YouTube](https://www.youtube.com/watch?v=sQaBtJ9UU5k&t=16s) |  [Bert-Jan](https://twitter.com/BertJanCyber) |
 | May 27,2025 | [May 2025](./shownotes/2025/KQL%20Cafe%20-%20May%202025.md) | [Youtube](https://www.youtube.com/watch?v=Yna97PlIX18) |  [Michalis Michalos](https://www.linkedin.com/in/mmihalos/) & [Christos Galanopoulos](https://www.linkedin.com/in/christos-galanopoulos/) |
 | June 23,2025 | [June 2025](./shownotes/2025/KQL%20Cafe%20-%20June%202025.md) | [Youtube](https://www.youtube.com/watch?v=goiF5qVfV4g) | [Thomas Naunheim](https://www.linkedin.com/in/thomasnaunheim/) |
+| October 27,2025 | [October 2025](./shownotes/2025/KQL%20Cafe%20-%20October%202025.md) |  [YouTube](https://www.youtube.com/watch?v=19-LwFtm_s4) | [Yoan Schinck](https://www.linkedin.com/in/yoan-schinck-740b6a122/) |
 
 ### 2024
 
