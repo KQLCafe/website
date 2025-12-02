@@ -15,10 +15,6 @@ For more details see [KustoCon.com](https://kustocon.com/)
 
 >> Videos will be released during the comming weeks.
 
-### KustoCon 2025 Opening
-
-[![KustoCon 2025 Opening]()]()
-
 ### Accelerating Innovation with KQL
 
 [Henning Rauch](https://www.linkedin.com/in/henning-rauch-adx/)
@@ -27,27 +23,23 @@ For more details see [KustoCon.com](https://kustocon.com/)
 
 ### Securing Endpoints at Scale: Using Security Copilot to Query, Detect & Respond
 
-[![Securing Endpoints at Scale: Using Security Copilot to Query, Detect & Respond]()]()
+[![Securing Endpoints at Scale: Using Security Copilot to Query, Detect & Respond](https://img.youtube.com/vi/WTgUwDnDvp4/maxresdefault.jpg)](https://youtu.be/7AztTs0NYMA?si=xAPGhtGaaxEmsUPu)
 
 ### From Edges to Nodes: Attack Path Discovery in Kusto
 
-[![From Edges to Nodes: Attack Path Discovery in Kusto]()]()
+[![From Edges to Nodes: Attack Path Discovery in Kusto](https://img.youtube.com/vi/7AztTs0NYMA/maxresdefault.jpg)](https://youtu.be/7AztTs0NYMA?si=g-qwpex0yWRPMSG6)
 
 ### Proactive Exposure hunting with Enterprise Exposure graph
 
-[![Proactive Exposure hunting with Enterprise Exposure graph]()]()
+[![Proactive Exposure hunting with Enterprise Exposure graph](https://img.youtube.com/vi/N_eEQPIaPu0/maxresdefault.jpg)](https://youtu.be/N_eEQPIaPu0?si=y4IiAhn7bdBxB0wr)
 
 ### Practical Kusto for Defenders
 
-[![Practical Kusto for Defenders]()]()
+[![Practical Kusto for Defenders](https://img.youtube.com/vi/9YnbvANrzQ0/maxresdefault.jpg)](https://youtu.be/9YnbvANrzQ0?si=OGvJXAbEXEltH3i2)
 
 ### Automating Incident Response with the Power of Kusto
 
-[![Automating Incident Response with the Power of Kusto]()]()
-
-### Wrapping up
-
-[![Wrapping up]()]()
+[![Automating Incident Response with the Power of Kusto](https://img.youtube.com/vi/VCdIrZXothw/maxresdefault.jpg)](https://youtu.be/VCdIrZXothw?si=q2TMpTP56j3p6VCq)
 
 ## Your Feedback counts
 
