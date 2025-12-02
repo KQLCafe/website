@@ -13,8 +13,6 @@ For more details see [KustoCon.com](https://kustocon.com/)
 
 ## KustoCon 2025 Sessions
 
->> Videos will be released during the comming weeks.
-
 ### Accelerating Innovation with KQL
 
 [Henning Rauch](https://www.linkedin.com/in/henning-rauch-adx/)
