@@ -1,4 +1,4 @@
-# KQL Cafe - Month Year
+# KQL Cafe - October 2025
 
 ## Recording
 
