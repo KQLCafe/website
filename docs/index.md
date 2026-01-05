@@ -48,7 +48,7 @@ If you'd like to share your query with the community, feel free to share it via 
 | Date | Time | Registration | Guest Speaker |
 | ---- | ---- | ------------ | ------------- |
 | January 20,2026 | 6pm - 7:30pm | [Registration](https://www.meetup.com/kql-cafe/events/312738131/) | [Simon Scharschinger](https://www.linkedin.com/in/simonscharschinger/) |
-| February TBA,2026 | 6pm - 7:30pm | (TBA) | [Michael Crane](https://www.linkedin.com/in/michael-crane-70b44539/) |
+| February 24,2026 | 6pm - 7:30pm | [Registration](https://www.meetup.com/kql-cafe/events/312738995/) | [Michael Crane](https://www.linkedin.com/in/michael-crane-70b44539/) |
 | March 17th, 2026 | 6pm - 7:30pm | (TBA) | [Laurie Rhodes](https://www.linkedin.com/in/laurie-rhodes-4903076/) |
 
 > We start at 6pm Amsterdam/Zurich CET
