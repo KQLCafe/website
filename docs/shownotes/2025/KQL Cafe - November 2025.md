@@ -30,7 +30,7 @@ Some notable attributes
 
 ### Custom Data Collection
 
-[Custom data collection (Preview)]() enables organizations to expand and customize telemetry collection beyond default configurations to support specialized threat hunting and security monitoring needs. This feature allows security teams to define specific collection rules with tailored filters for event properties such as folder paths, process names, and network connections.
+[Custom data collection Preview](https://learn.microsoft.com/en-us/defender-endpoint/custom-data-collection) enables organizations to expand and customize telemetry collection beyond default configurations to support specialized threat hunting and security monitoring needs. This feature allows security teams to define specific collection rules with tailored filters for event properties such as folder paths, process names, and network connections.
 
 ## Guest
 

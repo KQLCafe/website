@@ -47,8 +47,7 @@ If you'd like to share your query with the community, feel free to share it via 
 
 | Date | Time | Registration | Guest Speaker |
 | ---- | ---- | ------------ | ------------- |
-| November 24,2025 | 6pm - 7:30pm | [Meetup](https://www.meetup.com/kql-cafe/events/311845458/) | [Daniel Mozes](https://www.linkedin.com/in/daniel-m-b4201664/) |
-| January 27,2026 | 6pm - 7:30pm |  (TBA) | [Simon Scharschinger](https://www.linkedin.com/in/simonscharschinger/) |
+| January 27,2026 | 6pm - 7:30pm | (TBA) | [Simon Scharschinger](https://www.linkedin.com/in/simonscharschinger/) |
 | February 17,2026 | 6pm - 7:30pm | (TBA) | [Michael Crane](https://www.linkedin.com/in/michael-crane-70b44539/) |
 | March 17th, 2026 | 6pm - 7:30pm | (TBA) | [Laurie Rhodes](https://www.linkedin.com/in/laurie-rhodes-4903076/) |
 
@@ -60,28 +59,29 @@ If you'd like to share your query with the community, feel free to share it via 
 
 ### 2025
 
-| Date            | Show Notes     | Recording | Guest Speaker    |
+| Date | Show Notes | Recording | Guest Speaker |
 | --------------- | -------------- | ------------ | ------------- |
 | January 28,2025 | [January 2025](./shownotes/2025/KQL%20Cafe%20-%20January%202025.md) | [YouTube](https://www.youtube.com/watch?v=4tZL5sW-Dbo) | [Ian Hanley](https://www.linkedin.com/in/ianhanley/) |
-| February 25,2025 | [February 2025](./shownotes//2025/KQL%20Cafe%20-%20February%202025.md) | [YouTube](https://youtu.be/B9fbGszXE04) |  [Uri Barash](https://www.linkedin.com/in/uribarash/) |
-| March 18,2025 | [March 2025](./shownotes/2025/KQL%20Cafe%20-%20March%202025.md) | [YouTube](https://www.youtube.com/watch?v=znT_gdYi5Tw) |  [Sergio Albea](https://www.linkedin.com/in/sergioalbea/) |
-| April 29,2025 | [April 2025](./shownotes/2025/KQL%20Cafe%20-%20April%202025.md) | [YouTube](https://www.youtube.com/watch?v=sQaBtJ9UU5k&t=16s) |  [Bert-Jan](https://twitter.com/BertJanCyber) |
-| May 27,2025 | [May 2025](./shownotes/2025/KQL%20Cafe%20-%20May%202025.md) | [Youtube](https://www.youtube.com/watch?v=Yna97PlIX18) |  [Michalis Michalos](https://www.linkedin.com/in/mmihalos/) & [Christos Galanopoulos](https://www.linkedin.com/in/christos-galanopoulos/) |
+| February 25,2025 | [February 2025](./shownotes//2025/KQL%20Cafe%20-%20February%202025.md) | [YouTube](https://youtu.be/B9fbGszXE04) | [Uri Barash](https://www.linkedin.com/in/uribarash/) |
+| March 18,2025 | [March 2025](./shownotes/2025/KQL%20Cafe%20-%20March%202025.md) | [YouTube](https://www.youtube.com/watch?v=znT_gdYi5Tw) | [Sergio Albea](https://www.linkedin.com/in/sergioalbea/) |
+| April 29,2025 | [April 2025](./shownotes/2025/KQL%20Cafe%20-%20April%202025.md) | [YouTube](https://www.youtube.com/watch?v=sQaBtJ9UU5k&t=16s) | [Bert-Jan](https://twitter.com/BertJanCyber) |
+| May 27,2025 | [May 2025](./shownotes/2025/KQL%20Cafe%20-%20May%202025.md) | [Youtube](https://www.youtube.com/watch?v=Yna97PlIX18) | [Michalis Michalos](https://www.linkedin.com/in/mmihalos/) & [Christos Galanopoulos](https://www.linkedin.com/in/christos-galanopoulos/) |
 | June 23,2025 | [June 2025](./shownotes/2025/KQL%20Cafe%20-%20June%202025.md) | [Youtube](https://www.youtube.com/watch?v=goiF5qVfV4g) | [Thomas Naunheim](https://www.linkedin.com/in/thomasnaunheim/) |
-| October 27,2025 | [October 2025](./shownotes/2025/KQL%20Cafe%20-%20October%202025.md) |  [YouTube](https://www.youtube.com/watch?v=19-LwFtm_s4) | [Yoan Schinck](https://www.linkedin.com/in/yoan-schinck-740b6a122/) |
+| October 27,2025 | [October 2025](./shownotes/2025/KQL%20Cafe%20-%20October%202025.md) | [YouTube](https://www.youtube.com/watch?v=19-LwFtm_s4) | [Yoan Schinck](https://www.linkedin.com/in/yoan-schinck-740b6a122/) |
+| November 24,2025 | [November 2025](./shownotes/2025/KQL%20Cafe%20-%20November%202025.md) | [Youbube](https://www.youtube.com/@KQLCafe/playlists) | [Daniel Mozes](https://www.linkedin.com/in/daniel-m-b4201664/) |
 
 ### 2024
 
-| Date            | Show Notes     | Recording | Guest Speaker    |
+| Date | Show Notes | Recording | Guest Speaker |
 | --------------- | -------------- | ------------ | ------------- |
 | January 30,2024 | [January 2024](./shownotes/2024/KQL%20Cafe%20-%20January%202024.md) | [YouTube](https://www.youtube.com/watch?v=42SMCTXBlAM) | [Ilana Waitser](https://www.linkedin.com/in/ilana-waitser-368b911/) and [Elyran Malka](https://www.linkedin.com/in/elyran/) |
-| Febaruary 27,2024 | [February 2024](./shownotes/2024/KQL%20Cafe%20-%20February%202024.md) | [YouTube](https://youtu.be/d-Bw1OsZzMs?si=rpHFVL5--t0c0s_5) |  [Fabian Bader](https://twitter.com/fabian_bader) |
+| Febaruary 27,2024 | [February 2024](./shownotes/2024/KQL%20Cafe%20-%20February%202024.md) | [YouTube](https://youtu.be/d-Bw1OsZzMs?si=rpHFVL5--t0c0s_5) | [Fabian Bader](https://twitter.com/fabian_bader) |
 | March 26,2024 | [March 2024](./shownotes/2024/KQL%20Cafe%20-%20March%202024.md) | [Youtube](https://youtu.be/iz6UPgOjD-k?si=WmzVdjDylyJK4hSS) | [Purav Desai](https://github.com/puravspoint) |
 | April 30, 2024 | [April 2024](./shownotes/2024/KQL%20Cafe%20-%20April%202024.md) | [Youtube](https://www.youtube.com/watch?v=o-PKZks9NI4) | [Henning Rauch](https://www.linkedin.com/in/henning-rauch-adx/) |
-| May 28,2024 | [May 2024](./shownotes/2024/KQL%20Cafe%20-%20May%202024.md) | [Youtube](https://www.youtube.com/watch?v=lKB1sfZuDio&t=5s) |  [Nicola Suter](https://twitter.com/nicolonsky) |
+| May 28,2024 | [May 2024](./shownotes/2024/KQL%20Cafe%20-%20May%202024.md) | [Youtube](https://www.youtube.com/watch?v=lKB1sfZuDio&t=5s) | [Nicola Suter](https://twitter.com/nicolonsky) |
 | June 25 2024 | [June 2024](./shownotes/2024/KQL%20Cafe%20-%20June%202024.md) | [YouTube](https://www.youtube.com/watch?v=Ts8EPurTwpk) | [Michalis Michalos](https://www.linkedin.com/in/mmihalos/) |
 | August 20 2024 | [August 2024](./shownotes/2024/KQL%20Cafe%20-%20August%202024.md) | [YouTube](https://www.youtube.com/watch?v=iX-TSOjfDYA) | [Truvis Thornton](https://x.com/thattechkitten) |
-| October 29 2024 | [October 2024](./shownotes/2024/KQL%20Cafe%20-%20October%202024.md) | [Youtube](https://www.youtube.com/watch?v=vD9gsQzIZnI) |  [Koos Goosens](https://x.com/KoosGoossens) |
+| October 29 2024 | [October 2024](./shownotes/2024/KQL%20Cafe%20-%20October%202024.md) | [Youtube](https://www.youtube.com/watch?v=vD9gsQzIZnI) | [Koos Goosens](https://x.com/KoosGoossens) |
 | November 26 2024 | [November 2024](./shownotes/2024/KQL%20Cafe%20-%20November%202024.md) | [Youtube](https://www.youtube.com/watch?v=lcN4LBtPKPk) | [Mehmet Ergene](https://twitter.com/Cyb3rMonk) |
 
 ### 2023
@@ -93,7 +93,7 @@ If you'd like to share your query with the community, feel free to share it via 
 | April 4,2023 | [April 2023](./shownotes/2023/KQL%20Cafe%20-%20April%20I%202023.md) | [YouTube](https://youtu.be/GpP-oP5O8iA) | [Alexander Sloutsky](https://www.linkedin.com/in/sloutsky/) |
 | April 25,2023 | [April 2023](./shownotes/2023/KQL%20Cafe%20-%20April%20II%202023.md) | [YouTube](https://youtu.be/Fv0I7aa_P3k) |  [Thijs Leconte](https://twitter.com/thijslecomte) |
 | May 23 | [May 2023](./shownotes/2023/KQL%20Cafe%20-%20May%202023.md) | [YouTube](https://youtu.be/EW_UMa3jwRE) | [Clive Watson](https://www.linkedin.com/in/clive-watson/) |
-| June 27 | [June 2023](./shownotes/2023/KQL%20Cafe%20-%20June%202023.md) |  [YouTube](https://youtu.be/OgmkzDoPl6w) | Gianni & Alex |
+| June 27 | [June 2023](./shownotes/2023/KQL%20Cafe%20-%20June%202023.md) | [YouTube](https://youtu.be/OgmkzDoPl6w) | Gianni & Alex |
 | September 19 | [September 2023](./shownotes/2023/KQL%20Cafe%20-%20September%202023.md) | [YouTube](https://www.youtube.com/watch?v=W-bbLQMkiVE) | [Brian Bønk](https://twitter.com/brbonk) |
 | October 31 | [October 2023](./shownotes/2023/KQL%20Cafe%20-%20October%202023.md) | [YouTube](https://www.youtube.com/watch?v=00kN_7uITTI) | [Morten Knudsen](https://twitter.com/knudsenmortendk) |
 | November 28 | [November 2023](./shownotes/2023/KQL%20Cafe%20-%20November%202023.md) | [YouTube](https://www.youtube.com/watch?v=gM4C4RpEDqA) | [Ugur Koc](https://twitter.com/UgurKocDe) |
@@ -102,13 +102,13 @@ If you'd like to share your query with the community, feel free to share it via 
 
 | Date | Show Notes | Recording |  Guest Speaker |
 | ---- | ----------- | -------- | ---------- |
-| January 25,2022 |  [Hello KQL](./shownotes/2022/KQL%20Cafe%20-%20%20January%202022.md) | [YouTube](https://youtu.be/hD_j2XqXc_o) | [Rod Trent](https://twitter.com/rodtrent) |
+| January 25,2022 | [Hello KQL](./shownotes/2022/KQL%20Cafe%20-%20%20January%202022.md) | [YouTube](https://youtu.be/hD_j2XqXc_o) | [Rod Trent](https://twitter.com/rodtrent) |
 | February  22,2022 | [Hello from Down Under](./shownotes/2022/KQL%20Cafe%20-%20February%202022.md) | [YouTube](https://www.youtube.com/watch?v=HTCuh-tYLho) | [Matt Zorich](https://twitter.com/reprise_99) |
-| March 22,2022 |  [KQL Workbooks](./shownotes/2022/KQL%20Cafe%20-%20March%202022.md) | [YouTube](https://youtu.be/_EHYIRbRHeU) | [Matthew Lowe](https://www.linkedin.com/in/matthew-lowe-13b61990/) |
-| April 26, 2022 | [Detections](./shownotes/2022/KQL%20Cafe%20-%20April%202022.md) | [YouTube](https://www.youtube.com/watch?v=ianz3iCsRJI) |   [Olaf Hartong](https://twitter.com/olafhartong) |
-| May 31, 2022 |  [Scan Operator](./shownotes/2022/KQL%20Cafe%20-%20May%202022.md) | [YouTube](https://www.youtube.com/watch?v=z8cFNG9ofm0)  | [Mehmet Ergene](https://twitter.com/Cyb3rMonk) |
-| June 28,2022 |  [KQL Cafe June 22](./shownotes/2022/KQL%20Cafe%20-%20June%202022.md) | [YouTube](https://www.youtube.com/watch?v=igGo-XtG340) | No guest speaker |
-| August 30 |  [KQL Cafe August 29](./shownotes/2022/KQL%20Cafe%20-%20August%202022.md) | [YouTube](https://www.youtube.com/watch?v=j0kUiW_Ip7A) |  [Ashwin Patil](https://twitter.com/ashwinpatil) |
+| March 22,2022 | [KQL Workbooks](./shownotes/2022/KQL%20Cafe%20-%20March%202022.md) | [YouTube](https://youtu.be/_EHYIRbRHeU) | [Matthew Lowe](https://www.linkedin.com/in/matthew-lowe-13b61990/) |
+| April 26, 2022 | [Detections](./shownotes/2022/KQL%20Cafe%20-%20April%202022.md) | [YouTube](https://www.youtube.com/watch?v=ianz3iCsRJI) | [Olaf Hartong](https://twitter.com/olafhartong) |
+| May 31, 2022 | [Scan Operator](./shownotes/2022/KQL%20Cafe%20-%20May%202022.md) | [YouTube](https://www.youtube.com/watch?v=z8cFNG9ofm0) | [Mehmet Ergene](https://twitter.com/Cyb3rMonk) |
+| June 28,2022 | [KQL Cafe June 22](./shownotes/2022/KQL%20Cafe%20-%20June%202022.md) | [YouTube](https://www.youtube.com/watch?v=igGo-XtG340) | No guest speaker |
+| August 30 | [KQL Cafe August 29](./shownotes/2022/KQL%20Cafe%20-%20August%202022.md) | [YouTube](https://www.youtube.com/watch?v=j0kUiW_Ip7A) | [Ashwin Patil](https://twitter.com/ashwinpatil) |
 | September 27 | [KQL Cafe September 27](./shownotes/2022/KQL%20Cafe%20-%20September%202022.md) | [YouTube](https://youtu.be/cdlUasvgpg8) | [Mattias Borg](https://twitter.com/MattiasBorg82) |
 | October 25 | [KQL Cafe October 25](./shownotes/2022/KQL%20Cafe%20-%20October%202022.md) | [YouTube](https://youtu.be/kLuiueOD9LI) | [Jan Ketil Skanke](https://twitter.com/JankeSkanke) |
 | November 29 | [KQL Cafe November 29](./shownotes/2022/KQL%20Cafe%20-%20November%202022.md) | [YouTube](https://youtu.be/XB_VXKCS0Kk) | [BertJanCyber](https://twitter.com/BertJanCyber) |
