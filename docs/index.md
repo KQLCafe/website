@@ -49,7 +49,7 @@ If you'd like to share your query with the community, feel free to share it via 
 | ---- | ---- | ------------ | ------------- |
 | January 20,2026 | 6pm - 7:30pm | [Registration](https://www.meetup.com/kql-cafe/events/312738131/) | [Simon Scharschinger](https://www.linkedin.com/in/simonscharschinger/) |
 | February 24,2026 | 6pm - 7:30pm | [Registration](https://www.meetup.com/kql-cafe/events/312738995/) | [Michael Crane](https://www.linkedin.com/in/michael-crane-70b44539/) |
-| March 17th, 2026 | 6pm - 7:30pm | (TBA) | [Laurie Rhodes](https://www.linkedin.com/in/laurie-rhodes-4903076/) |
+| March 17th, 2026 | 6pm - 7:30pm | [Registration](https://www.meetup.com/kql-cafe/events/312739086/) | [Laurie Rhodes](https://www.linkedin.com/in/laurie-rhodes-4903076/) |
 
 > We start at 6pm Amsterdam/Zurich CET
 
