@@ -2,7 +2,7 @@
 
 ## Recording
 
-- [Recording]()
+- [Recording](https://www.youtube.com/watch?v=7uAMCz1_4Tw)
 
 ## Hosts
 
@@ -36,6 +36,8 @@ Some notable attributes
 
 - [Daniel Mozes](https://www.linkedin.com/in/daniel-m-b4201664/)
 Product Manager, Customer Experience for Microsoft 365 Security @ Microsoft
+
+- [Add Advanced Hunting community queries to Microsoft Defender XDR and Microsoft Sentinel](https://learn.microsoft.com/en-us/defender-office-365/step-by-step-guides/add-advanced-hunting-community-queries)
 
 ## Learn KQL
 

@@ -13,6 +13,10 @@ For more details see [KustoCon.com](https://kustocon.com/)
 
 ## KustoCon 2025 Sessions
 
+### Workshop
+
+- [KustoCon 2025 Workshop](https://github.com/Bert-JanP/KustoCon2025)
+
 ### Accelerating Innovation with KQL
 
 [Henning Rauch](https://www.linkedin.com/in/henning-rauch-adx/)

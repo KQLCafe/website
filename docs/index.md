@@ -68,7 +68,7 @@ If you'd like to share your query with the community, feel free to share it via 
 | May 27,2025 | [May 2025](./shownotes/2025/KQL%20Cafe%20-%20May%202025.md) | [Youtube](https://www.youtube.com/watch?v=Yna97PlIX18) | [Michalis Michalos](https://www.linkedin.com/in/mmihalos/) & [Christos Galanopoulos](https://www.linkedin.com/in/christos-galanopoulos/) |
 | June 23,2025 | [June 2025](./shownotes/2025/KQL%20Cafe%20-%20June%202025.md) | [Youtube](https://www.youtube.com/watch?v=goiF5qVfV4g) | [Thomas Naunheim](https://www.linkedin.com/in/thomasnaunheim/) |
 | October 27,2025 | [October 2025](./shownotes/2025/KQL%20Cafe%20-%20October%202025.md) | [YouTube](https://www.youtube.com/watch?v=19-LwFtm_s4) | [Yoan Schinck](https://www.linkedin.com/in/yoan-schinck-740b6a122/) |
-| November 24,2025 | [November 2025](./shownotes/2025/KQL%20Cafe%20-%20November%202025.md) | [Youbube](https://www.youtube.com/@KQLCafe/playlists) | [Daniel Mozes](https://www.linkedin.com/in/daniel-m-b4201664/) |
+| November 24,2025 | [November 2025](./shownotes/2025/KQL%20Cafe%20-%20November%202025.md) | [Youbube](https://www.youtube.com/watch?v=7uAMCz1_4Tw) | [Daniel Mozes](https://www.linkedin.com/in/daniel-m-b4201664/) |
 
 ### 2024
 
