@@ -70,6 +70,7 @@ These blog posts focus on how to use KQL in Advanced Hunting with Microsoft Defe
 ## Guest
 
 - [Simon Scharschinger](https://www.linkedin.com/in/simonscharschinger/)
+- [Presentation](/docs/Attachments/KQLCafe%20-%20Jan%202026%20-%20KQL%20as%20a%20Forensic%20Tool.pdf)
 
 ## Learn KQL
 
