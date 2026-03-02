@@ -47,9 +47,8 @@ If you'd like to share your query with the community, feel free to share it via 
 
 | Date | Time | Registration | Guest Speaker |
 | ---- | ---- | ------------ | ------------- |
-| February 24,2026 | 6pm - 7:30pm | [Registration](https://www.meetup.com/kql-cafe/events/312738995/) | [Michael Crane](https://www.linkedin.com/in/michael-crane-70b44539/) |
-| March 17th, 2026 | 6pm - 7:30pm | [Registration](https://www.meetup.com/kql-cafe/events/312739086/) | [Laurie Rhodes](https://www.linkedin.com/in/laurie-rhodes-4903076/) |
-| April 21th, 2026 | 6pm - 7:30pm | [Registration]() | [TBA]() |
+| March 17th, 2026 | 6pm - 7:30pm | [Registration](https://www.meetup.com/kql-cafe/events/312739086/) | [TBA](https://kqlcafe.com) |
+| April 21th, 2026 | 6pm - 7:30pm | [Registration](https://www.meetup.com/kql-cafe/events/313607387/) | [Laurie Rhodes](https://www.linkedin.com/in/laurie-rhodes-4903076/) |
 
 > We start at 6pm Amsterdam/Zurich CET
 
@@ -61,7 +60,8 @@ If you'd like to share your query with the community, feel free to share it via 
 
 | Date | Show Notes | Recording | Guest Speaker |
 | --------------- | -------------- | ------------ | ------------- |
-| January 20,2026 | [January 2020](./shownotes/2026/KQL%20Cafe%20-%20January%202026.md) | [YouTube](https://youtu.be/D9gmDFHRJcU) | [Simon Scharschinger](https://www.linkedin.com/in/simonscharschinger/) |
+| January 20,2026 | [January 2026](./shownotes/2026/KQL%20Cafe%20-%20January%202026.md) | [YouTube](https://youtu.be/D9gmDFHRJcU) | [Simon Scharschinger](https://www.linkedin.com/in/simonscharschinger/) |
+| February 24,2026 | [February 2026](./shownotes/2026/KQL%20Cafe%20-%20February%202026.md) | [YouTube](https://youtu.be/3XexqnAowQ4) | [Michael Crane](https://www.linkedin.com/in/michael-crane-70b44539/) |
 
 ### 2025
 
