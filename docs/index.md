@@ -47,9 +47,9 @@ If you'd like to share your query with the community, feel free to share it via 
 
 | Date | Time | Registration | Guest Speaker |
 | ---- | ---- | ------------ | ------------- |
-| March 17, 2026 | 6pm - 7:30pm | [Registration](https://www.meetup.com/kql-cafe/events/312739086/) | [TBA](https://kqlcafe.com) |
+| March 17, 2026 | 6pm - 7:30pm | [Registration](https://www.meetup.com/kql-cafe/events/312739086/) | [Christos Lazaridis](https://www.linkedin.com/in/chrislazaridis/) |
 | April 21, 2026 | 6pm - 7:30pm | [Registration](https://www.meetup.com/kql-cafe/events/313607387/) | [Laurie Rhodes](https://www.linkedin.com/in/laurie-rhodes-4903076/) |
-| May 26, 2026 | 6pm - 7:30pm | [Registration]() | [Sergio Albea](https://www.linkedin.com/in/sergioalbea/) |
+| May 26, 2026 | 6pm - 7:30pm | [Registration](https://www.meetup.com/kql-cafe/events/313607387/?) | [Sergio Albea](https://www.linkedin.com/in/sergioalbea/) |
 
 > We start at 6pm Amsterdam/Zurich CET
 > Sydney, 4 AM (Next Day), Perth, 1 AM (Next Day), Kuala Lumpur, 1 AM (Next Day), Mumbai, 10:30 PM, Tel-Aviv, 8 PM, Johannesburg, 7 PM, Rio de Janeiro, 2 PM, New York, 12 PM, Toronto, 12 PM, Houston, 11 AM, Seattle, 9 AM
