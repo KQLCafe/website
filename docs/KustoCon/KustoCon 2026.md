@@ -17,4 +17,4 @@ For more details see [KustoCon.com](https://kustocon.com/)
 
 ***Thanks to our sponsors***
 
- ![Sponsors](https://kustocon.com/sponsors/)
+ [Sponsors](https://kustocon.com/sponsors/)
