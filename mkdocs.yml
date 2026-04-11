@@ -61,6 +61,7 @@ docs_dir: docs
 # Plugins
 plugins:
   - search
+  - awesome-pages
   #- simple
   #- simple:
   #    include_extensions:
