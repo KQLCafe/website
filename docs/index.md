@@ -47,9 +47,8 @@ If you'd like to share your query with the community, feel free to share it via 
 
 | Date | Time | Registration | Guest Speaker |
 | ---- | ---- | ------------ | ------------- |
-| March 17, 2026 | 6pm - 7:30pm | [Registration](https://www.meetup.com/kql-cafe/events/312739086/) | [Christos Lazaridis](https://www.linkedin.com/in/chrislazaridis/) |
-| April 21, 2026 | 6pm - 7:30pm | [Registration](https://www.meetup.com/kql-cafe/events/313607387/) | [Laurie Rhodes](https://www.linkedin.com/in/laurie-rhodes-4903076/) |
 | May 26, 2026 | 6pm - 7:30pm | [Registration](https://www.meetup.com/kql-cafe/events/313607387/?) | [Sergio Albea](https://www.linkedin.com/in/sergioalbea/) |
+| June 30,2026 | 6pm - 7:30pm | [Registration]() | [TBA](www.kqlcafe.com)
 
 > We start at 6pm Amsterdam/Zurich CET
 > Sydney, 4 AM (Next Day), Perth, 1 AM (Next Day), Kuala Lumpur, 1 AM (Next Day), Mumbai, 10:30 PM, Tel-Aviv, 8 PM, Johannesburg, 7 PM, Rio de Janeiro, 2 PM, New York, 12 PM, Toronto, 12 PM, Houston, 11 AM, Seattle, 9 AM
@@ -62,6 +61,8 @@ If you'd like to share your query with the community, feel free to share it via 
 | --------------- | -------------- | ------------ | ------------- |
 | January 20,2026 | [January 2026](./shownotes/2026/KQL%20Cafe%20-%20January%202026.md) | [YouTube](https://youtu.be/D9gmDFHRJcU) | [Simon Scharschinger](https://www.linkedin.com/in/simonscharschinger/) |
 | February 24,2026 | [February 2026](./shownotes/2026/KQL%20Cafe%20-%20February%202026.md) | [YouTube](https://youtu.be/3XexqnAowQ4) | [Michael Crane](https://www.linkedin.com/in/michael-crane-70b44539/) |
+| March 17, 2026 | [March 2026](./shownotes/2026/) | [Youtube](https://youtu.be/syLM9o8UJV0?si=xXvyfShIsXbfp4Mb) | [Christos Lazaridis](https://www.linkedin.com/in/chrislazaridis/) |
+| April 21, 2026 | [April 2026](./shownotes/2026/) | [Youtube](https://youtu.be/Bb7wHCk047E?si=xOewURGesss_nYSE) | [Laurie Rhodes](https://www.linkedin.com/in/laurie-rhodes-4903076/) |
 
 ### 2025
 
