@@ -119,3 +119,4 @@ If you'd like to share your query with the community, feel free to share it via 
 | September 27 | [KQL Cafe September 27](./shownotes/2022/KQL%20Cafe%20-%20September%202022.md) | [YouTube](https://youtu.be/cdlUasvgpg8) | [Mattias Borg](https://twitter.com/MattiasBorg82) |
 | October 25 | [KQL Cafe October 25](./shownotes/2022/KQL%20Cafe%20-%20October%202022.md) | [YouTube](https://youtu.be/kLuiueOD9LI) | [Jan Ketil Skanke](https://twitter.com/JankeSkanke) |
 | November 29 | [KQL Cafe November 29](./shownotes/2022/KQL%20Cafe%20-%20November%202022.md) | [YouTube](https://youtu.be/XB_VXKCS0Kk) | [BertJanCyber](https://twitter.com/BertJanCyber) |
+
