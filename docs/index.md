@@ -47,7 +47,7 @@ If you'd like to share your query with the community, feel free to share it via 
 
 | Date | Time | Registration | Guest Speaker |
 | ---- | ---- | ------------ | ------------- |
-| May 26, 2026 | 6pm - 7:30pm | [Registration](https://www.meetup.com/kql-cafe/events/313607387/?) | [Sergio Albea](https://www.linkedin.com/in/sergioalbea/) |
+| May 26, 2026 | 6pm - 7:30pm | [Registration](https://www.meetup.com/kql-cafe/events/313717997/) | [Sergio Albea](https://www.linkedin.com/in/sergioalbea/) |
 | June 30,2026 | 6pm - 7:30pm | [Registration]() | [TBA](www.kqlcafe.com)
 
 > We start at 6pm Amsterdam/Zurich CET
