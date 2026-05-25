@@ -48,7 +48,7 @@ If you'd like to share your query with the community, feel free to share it via 
 | Date | Time | Registration | Guest Speaker |
 | ---- | ---- | ------------ | ------------- |
 | May 26, 2026 | 6pm - 7:30pm | [Registration](https://www.meetup.com/kql-cafe/events/313717997/) | [Sergio Albea](https://www.linkedin.com/in/sergioalbea/) |
-| June 30,2026 | 6pm - 7:30pm | [Registration]() | [TBA](www.kqlcafe.com)
+| June 30,2026 | 6pm - 7:30pm | [Registration](https://www.meetup.com/kql-cafe/events/314953010/) | [Diana Damenova](https://www.linkedin.com/in/diana-damenova/) |
 
 > We start at 6pm Amsterdam/Zurich CET
 > Sydney, 4 AM (Next Day), Perth, 1 AM (Next Day), Kuala Lumpur, 1 AM (Next Day), Mumbai, 10:30 PM, Tel-Aviv, 8 PM, Johannesburg, 7 PM, Rio de Janeiro, 2 PM, New York, 12 PM, Toronto, 12 PM, Houston, 11 AM, Seattle, 9 AM
