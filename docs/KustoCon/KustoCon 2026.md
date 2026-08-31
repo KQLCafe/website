@@ -5,7 +5,7 @@
 KustoCon 2026 will take place on on October 30. 2026 at the Circle Microsoft Office Zurich Airport and Online.
 
 Conference Organizers [Alex Verboon](https://www.linkedin.com/in/verboonalex/) , [Gianni Castaldi](https://www.linkedin.com/in/giannicastaldi/) and
-[Frans Oudendorp](https://www.linkedin.com/in/fransoudendorp/) and [Bert-Jan Plans](https://www.linkedin.com/in/bert-janpals/)
+[Frans Oudendorp](https://www.linkedin.com/in/fransoudendorp/) 
 
 For more details see [KustoCon.com](https://kustocon.com/)
 
