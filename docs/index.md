@@ -63,8 +63,8 @@ If you'd like to share your query with the community, feel free to share it via 
 | February 24,2026 | [February 2026](./shownotes/2026/KQL%20Cafe%20-%20February%202026.md) | [YouTube](https://youtu.be/3XexqnAowQ4) | [Michael Crane](https://www.linkedin.com/in/michael-crane-70b44539/) |
 | March 17, 2026 | [March 2026](./shownotes/2026/) | [Youtube](https://youtu.be/syLM9o8UJV0?si=xXvyfShIsXbfp4Mb) | [Christos Lazaridis](https://www.linkedin.com/in/chrislazaridis/) |
 | April 21, 2026 | [April 2026](./shownotes/2026/) | [Youtube](https://youtu.be/Bb7wHCk047E?si=xOewURGesss_nYSE) | [Laurie Rhodes](https://www.linkedin.com/in/laurie-rhodes-4903076/) |
-| May 26, 2026 | | [May 2026]() | [Youtube](https://youtu.be/e-mg6XYcCAY?si=pjF3vcN37RMJ_rIh) | [Sergio Albea](https://www.linkedin.com/in/sergioalbea/) |
-| June 30,2026 | | [June 2026]() | [Youtube](https://youtu.be/PY4238Yufy0?si=PJT2PYkfqTLSeIuM) | [Diana Damenova](https://www.linkedin.com/in/diana-damenova/) |
+| May 26, 2026 | [May 2026](./shownotes/) | [Youtube](https://youtu.be/e-mg6XYcCAY?si=pjF3vcN37RMJ_rIh) | [Sergio Albea](https://www.linkedin.com/in/sergioalbea/) |
+| June 30,2026 | [June 2026](./shownotes/) | [Youtube](https://youtu.be/PY4238Yufy0?si=PJT2PYkfqTLSeIuM) | [Diana Damenova](https://www.linkedin.com/in/diana-damenova/) |
 
 ### 2025
 
