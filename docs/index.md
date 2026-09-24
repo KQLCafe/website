@@ -47,6 +47,7 @@ If you'd like to share your query with the community, feel free to share it via 
 
 | Date | Time | Registration | Guest Speaker |
 | ---- | ---- | ------------ | ------------- |
+| September 29,2026 | 6pm - 7:30pm | [Registration](https://www.meetup.com/kql-cafe/events/316655221) | [Ian Hanley](https://www.linkedin.com/in/ianhanley) |
 | November 24 , 2026 | 6pm - 7:30pm | [Registration](https://www.meetup.com/kql-cafe/events/316360509/?slug=kql-cafe&eventId=314953010) | [Benjamin Zulliger](https://www.linkedin.com/in/benjamin-zulliger/) |
 
 
