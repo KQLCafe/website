@@ -66,6 +66,7 @@ If you'd like to share your query with the community, feel free to share it via 
 | April 21, 2026 | [April 2026](./shownotes/2026/) | [Youtube](https://youtu.be/Bb7wHCk047E?si=xOewURGesss_nYSE) | [Laurie Rhodes](https://www.linkedin.com/in/laurie-rhodes-4903076/) |
 | May 26, 2026 | [May 2026](./shownotes/) | [Youtube](https://youtu.be/e-mg6XYcCAY?si=pjF3vcN37RMJ_rIh) | [Sergio Albea](https://www.linkedin.com/in/sergioalbea/) |
 | June 30,2026 | [June 2026](./shownotes/) | [Youtube](https://youtu.be/PY4238Yufy0?si=PJT2PYkfqTLSeIuM) | [Diana Damenova](https://www.linkedin.com/in/diana-damenova/) |
+| September 29,2026 | [September 2026](./shownotes/2026/KQL%20Cafe%20-%20September%202026.md) | [Youtube](https://www.youtube.com/watch?v=b56RoyaFsb8&t=659s) | [Ian Hanley](https://www.linkedin.com/in/ianhanley) |
 
 ### 2025
 
